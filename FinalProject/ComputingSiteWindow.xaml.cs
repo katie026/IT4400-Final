@@ -29,6 +29,10 @@ namespace FinalProject
         List<EquipmentItem> equipmentItems;
         List<SupplyCount> supplyCounts;
 
+        Building building;
+        List<EquipmentItem> computers;
+        List<EquipmentItem> printers;
+
         public ComputingSiteWindow(MainWindow parentWindow, ComputingSite selectedComputingSite)
         {
             // Initialize New Window
@@ -44,13 +48,41 @@ namespace FinalProject
 
         private void SetData()
         {
+            // set data given from parent window
             buildings = _parentWindow.buildings;
             computingSites = _parentWindow.computingSites;
             inventorySites = _parentWindow.inventorySites;
             equipmentItems = _parentWindow.equipmentItems;
             supplyCounts = _parentWindow.supplyCounts;
 
-            computersListBox.ItemsSource = buildings;
+            // populate Computers
+            computers = equipmentItems
+                .Where(item => item.SiteId == _selectedComputingSite.Id && (item.EquipmentType == EquipmentType.windowsComputer || item.EquipmentType == EquipmentType.macComputer))
+                .ToList();
+            computersListBox.ItemsSource = computers;
+
+            // populate Printers
+            printers = equipmentItems
+                .Where(item => item.SiteId == _selectedComputingSite.Id && (item.EquipmentType == EquipmentType.blackWhitePrinter || item.EquipmentType == EquipmentType.colorPrinter))
+                .ToList();
+            printersListBox.ItemsSource = printers;
+
+            // populate Buildings
+            BuildingComboBox.ItemsSource = buildings;
+            building = buildings.FirstOrDefault(item => item.Id == _selectedComputingSite.Building);
+            if (building != null)
+            {
+                BuildingComboBox.SelectedItem = building;
+            } else
+            {
+                if (buildings.Count > 0)
+                {
+                    BuildingComboBox.SelectedItem = buildings[0];
+                } else
+                {
+                    BuildingComboBox.SelectedItem = null;
+                }
+            }
         }
 
         private void SendDataToParent()
@@ -78,6 +110,16 @@ namespace FinalProject
         private void computersListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
             
+        }
+
+        private void printersListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void printersListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+
         }
     }
 }

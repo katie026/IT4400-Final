@@ -23,10 +23,17 @@ namespace FinalProject
         public App myApp;
 
         public List<Building> buildings;
+        public List<Building> filteredBuildings;
         public List<ComputingSite> computingSites;
+        private List<ComputingSite> filteredComputingSites;
         public List<InventorySite> inventorySites;
+        public List<InventorySite> filteredInventorySites;
         public List<EquipmentItem> equipmentItems;
+        public List<EquipmentItem> filteredEquipmentItems;
         public List<SupplyCount> supplyCounts;
+        public List<SupplyCount> filteredSupplyCounts;
+
+        private Building previouslySelectedBuilding;
 
         public MainWindow()
         {
@@ -72,13 +79,11 @@ namespace FinalProject
             equipmentItems = deserializedData.Item4;
             supplyCounts = deserializedData.Item5;
 
-            // Sort the personList
+            // Sort the lists
             SortLists();
 
             // Bind the ListBoxes to the lists
-            buildingsListBox.ItemsSource = buildings;
-            computingSitesListBox.ItemsSource = computingSites;
-            inventorySitesListBox.ItemsSource = inventorySites;
+            BindLists();
         }
 
         private void SerializeData()
@@ -87,6 +92,17 @@ namespace FinalProject
             string filePath = System.IO.Path.Combine(Environment.CurrentDirectory, @"Assets\CampusData");
             DataSerializer serializer = new DataSerializer();
             serializer.SerializeData(filePath, buildings, computingSites, inventorySites, equipmentItems, supplyCounts);
+        }
+
+        private void BindLists()
+        {
+            filteredBuildings = buildings.ToList();
+            filteredComputingSites = computingSites.ToList();
+            filteredInventorySites = inventorySites.ToList();
+
+            buildingsListBox.ItemsSource = filteredBuildings;
+            computingSitesListBox.ItemsSource = filteredComputingSites;
+            inventorySitesListBox.ItemsSource = filteredInventorySites;
         }
 
         private void SortLists()
@@ -156,8 +172,21 @@ namespace FinalProject
                 // get the selected item
                 var selectedItem = (Building)buildingsListBox.SelectedItem;
 
-                // Perform the desired action with the selected item
-                MessageBox.Show($"Double-clicked on: {selectedItem.Name}");
+                // filter ComputingSites ListBox
+                if (previouslySelectedBuilding == selectedItem)
+                {
+                    // if clicked on the same building, unfilter the ComputingSites ListBox
+                    computingSitesListBox.ItemsSource = computingSites;
+                    previouslySelectedBuilding = null; // reset the previously selected item
+                    buildingsListBox.SelectedItem = null;
+                }
+                else
+                {
+                    // filter ComputingSites ListBox
+                    filteredComputingSites = computingSites.Where(site => site.Building == selectedItem.Id).ToList();
+                    computingSitesListBox.ItemsSource = filteredComputingSites;
+                    previouslySelectedBuilding = selectedItem; // store the currently selected item
+                }
             }
         }
 
@@ -194,154 +223,3 @@ namespace FinalProject
         }
     }
 }
-
-
-//private void SerializeTestData()
-//{
-//    // Creating test data for Buildings
-//    List<Building> buildings = new List<Building>
-//            {
-//                new Building
-//                {
-//                    Id = "1",
-//                    Name = "Library A",
-//                    Address = new Address
-//                    {
-//                        Street = "123 Main St",
-//                        City = "Cityville",
-//                        State = "Stateville",
-//                        StateCode = "ST",
-//                        Country = "Countryville",
-//                        ZipCode = "12345"
-//                    },
-//                    Longitude = 123.456f,
-//                    Latitude = 78.910f,
-//                    Group = CampusGroup.G1,
-//                    Type = BuildingType.Library
-//                },
-//                new Building
-//                {
-//                    Id = "2",
-//                    Name = "Residential Hall B",
-//                    Address = new Address
-//                    {
-//                        Street = "456 Elm St",
-//                        City = "Townsville",
-//                        State = "Stateton",
-//                        StateCode = "SS",
-//                        Country = "Countryland",
-//                        ZipCode = "67890"
-//                    },
-//                    Longitude = 234.567f,
-//                    Latitude = 89.012f,
-//                    Group = CampusGroup.R1,
-//                    Type = BuildingType.ResidentialHall
-//                }
-//            };
-
-//    // Creating test data for ComputingSites
-//    List<ComputingSite> computingSites = new List<ComputingSite>
-//            {
-//                new ComputingSite
-//                {
-//                    Id = "1b",
-//                    Building = "1",
-//                    Name = "Computer Lab 1",
-//                    Type = ComputingSiteType.Classroom,
-//                    ChairCount = 30,
-//                    HasClock = true,
-//                    HasWhiteboard = true,
-//                    HasBlackboard = false,
-//                    HasPosterBoard = false,
-//                    HasInventory = true,
-//                    NearestInventoryId = "1",
-//                    SiteCaptainUserId = "1001"
-//                },
-//                new ComputingSite
-//                {
-//                    Id = "2a",
-//                    Building = "2",
-//                    Name = "Printer Station 1",
-//                    Type = ComputingSiteType.PrinterOnly,
-//                    ChairCount = 0,
-//                    HasClock = false,
-//                    HasWhiteboard = false,
-//                    HasBlackboard = false,
-//                    HasPosterBoard = false,
-//                    HasInventory = false,
-//                    NearestInventoryId = "0",
-//                    SiteCaptainUserId = "1002"
-//                }
-//            };
-
-//    // Creating test data for InventorySites
-//    List<InventorySite> inventorySites = new List<InventorySite>
-//            {
-//                new InventorySite
-//                {
-//                    Id = "1b",
-//                    Building = "1",
-//                    Name = "Supply Closet A",
-//                    Types = new InventorySiteType[] { InventorySiteType.Closet }
-//                },
-//                new InventorySite
-//                {
-//                    Id = "2b",
-//                    Building = "2",
-//                    Name = "Kitchenette B",
-//                    Types = new InventorySiteType[] { InventorySiteType.CornellKitchenette }
-//                }
-//            };
-
-//    // Creating test data for EquipmentItems
-//    List<EquipmentItem> equipmentItems = new List<EquipmentItem>
-//            {
-//                new EquipmentItem
-//                {
-//                    Id = "1",
-//                    SiteId = "1",
-//                    EquipmentType = EquipmentType.windowsComputer,
-//                    Name = "Computer1",
-//                    LastCleaned = DateTime.Now.AddDays(-10),
-//                    ConnectedComputerId = "0"
-//                },
-//                new EquipmentItem
-//                {
-//                    Id = "2",
-//                    SiteId = "2",
-//                    EquipmentType = EquipmentType.blackWhitePrinter,
-//                    Name = "Printer1",
-//                    LastCleaned = DateTime.Now.AddDays(-5),
-//                    ConnectedComputerId = "1"
-//                }
-//            };
-
-//    // Creating test data for SupplyCounts
-//    List<SupplyCount> supplyCounts = new List<SupplyCount>
-//            {
-//                new SupplyCount
-//                {
-//                    SiteId = "1",
-//                    Type = SupplyType.BlackWhitePaper,
-//                    Count = 1000,
-//                    Level = 80
-//                },
-//                new SupplyCount
-//                {
-//                    SiteId = "1",
-//                    Type = SupplyType.ColorPaper,
-//                    Count = 500,
-//                    Level = 60
-//                }
-//            };
-
-//    // Serialize the test data
-//    string filePath = System.IO.Path.Combine(Environment.CurrentDirectory, @"Assets\CampusData");
-//    DataSerializer serializer = new DataSerializer();
-
-//    serializer.SerializeData(filePath, buildings, computingSites, inventorySites, equipmentItems, supplyCounts);
-
-//    // Deserialize the test data
-//    var deserializedData = serializer.DeserializeData(filePath);
-//    // Access and work with the deserialized data as needed
-//}
