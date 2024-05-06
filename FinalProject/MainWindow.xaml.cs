@@ -21,22 +21,35 @@ namespace FinalProject
     public partial class MainWindow : Window
     {
         public App myApp;
+        private bool isClosing = false;
+        private bool shouldClose = true;
 
+        // deserialized data to be serialized
+        // and filtered data to be displayed
         public List<Building> buildings;
-        public List<Building> filteredBuildings;
+        private List<Building> filteredBuildings;
         public List<ComputingSite> computingSites;
         private List<ComputingSite> filteredComputingSites;
         public List<InventorySite> inventorySites;
-        public List<InventorySite> filteredInventorySites;
+        private List<InventorySite> filteredInventorySites;
         public List<EquipmentItem> equipmentItems;
-        public List<EquipmentItem> filteredEquipmentItems;
+        private List<EquipmentItem> filteredEquipmentItems;
         public List<SupplyCount> supplyCounts;
-        public List<SupplyCount> filteredSupplyCounts;
+        private List<SupplyCount> filteredSupplyCounts;
+
+        // options
+        public List<CampusGroup> GroupList { get; set; }
 
         public MainWindow()
         {
             InitializeComponent();
             DeserializeData();
+
+            // populate Groups
+            // get all enum values
+            GroupList = CampusGroup.GetValues(typeof(CampusGroup)).Cast<CampusGroup>().ToList();
+            // bind GroupComboBox
+            DataContext = this;
         }
 
         public void ExitProgram()
@@ -44,22 +57,41 @@ namespace FinalProject
             try
             {
                 SerializeData();
+                if (isClosing == true)
+                {
+                    // if window is currenlty closing due to window close
+                    shouldClose = true;
+                }
+                else
+                {
+                    // if window is closing due to menu exit button
+                    myApp.CloseAllWindows();
+                }
             }
             catch (Exception ex)
             {
                 // If serialization fails, warn the user
-                MessageBoxResult result = MessageBox.Show($"Serialization failed: {ex.Message}. Do you want to continue closing the application?",
+                MessageBoxResult result = MessageBox.Show($"Serialization failed: {ex.Message} Do you want to continue closing the application?",
                                                           "Serialization Error", MessageBoxButton.YesNo, MessageBoxImage.Warning);
 
                 // If the user clicks Yes, continue closing the application
                 if (result == MessageBoxResult.Yes)
                 {
-                    myApp.CloseAllWindows();
+                    if (isClosing == true)
+                    {
+                        shouldClose = true;
+                    }
+                    else
+                    {
+                        myApp.CloseAllWindows();
+                    }
                 }
                 // If the user clicks No, cancel closing the application
                 else if (result == MessageBoxResult.No)
                 {
-                    // do nothing, let the user continue using the application
+                    // do nothing if menu exit item close
+                    // cancel closing event if Window Close
+                    shouldClose = false;
                 }
             }
         }
@@ -138,8 +170,23 @@ namespace FinalProject
 
         private void Window_Closed(object sender, EventArgs e)
         {
-            // in case the window was closed using a window control
+            isClosing = false;
+            myApp.CloseAllWindows();
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            isClosing = true;
             ExitProgram();
+            if (!shouldClose)
+            {
+                // Cancel the closing event
+                e.Cancel = true;
+            } else
+            {
+                // continue closing event
+                e.Cancel = false;
+            }
         }
 
         private void exit_menuItem_Click(object sender, RoutedEventArgs e)
@@ -213,6 +260,30 @@ namespace FinalProject
 
                 // Perform the desired action with the selected item
                 MessageBox.Show($"Double-clicked on: {selectedItem.Name}");
+            }
+        }
+
+        private void GroupComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            // check if an item is selected
+            if (groupComboBox.SelectedItem != null)
+            {
+                // get the selected item
+                var selectedItem = (CampusGroup)groupComboBox.SelectedItem;
+
+                // Check if the selected item is different from the previously selected item
+                if (selectedItem != CampusGroup.All)
+                {
+                    // filter Buildings ListBox
+                    filteredBuildings = buildings.Where(building => building.Group == selectedItem).ToList();
+                    buildingsListBox.ItemsSource = filteredBuildings;
+                }
+                else if (selectedItem == CampusGroup.All)
+                {
+                    // unfilter buildings
+                    filteredBuildings = buildings;
+                    buildingsListBox.ItemsSource = filteredBuildings;
+                }
             }
         }
     }

@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="ComputingSiteWindow" Height="600" Width="800" MinHeight="400" MinWidth="600"
         Loaded="Window_Loaded"
-        Closed="Window_Closed">
+        Closed="Window_Closed"
+        Closing="Window_Closing">
     <DockPanel Height="Auto" Width="Auto" x:Name="dockPanel1" LastChildFill="True">
         <Menu Height="23" x:Name="menu1" Width="Auto" DockPanel.Dock="Top">
             <!-- File Menu -->
@@ -19,8 +20,8 @@
         <Grid Height="auto" x:Name="grid1" Width="Auto">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width=".8*" />
                 <ColumnDefinition Width="1*" />
-                <ColumnDefinition Width="1.5*" />
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
                 <RowDefinition Height="60" MinHeight="30"/>
@@ -34,7 +35,7 @@
             <Label Name="windowLabel" Content="Computing Site Name Here" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Height="43" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="503" FontSize="24" HorizontalContentAlignment="Center" FontWeight="Bold" MinWidth="340" />
             <!--SUBMIT CHANGES-->
             <StackPanel Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Margin="0,15,15,0" VerticalAlignment="Top">
-                <Button Name="submitChangesButton" Content="Submit Changes" Click="submitChangesButton_Click" Grid.Row="0" Grid.Column="2" Height="20"  Width="120" HorizontalAlignment="Right" Margin="0,0,0,10"/>
+                <!--<Button Name="submitChangesButton" Content="Submit Changes" Click="submitChangesButton_Click" Grid.Row="0" Grid.Column="2" Height="20"  Width="120" HorizontalAlignment="Right" Margin="0,0,0,10"/>-->
                 <Button Name="revertChangesButton" Content="Revert Changes" Click="revertChangesButton_Click" Grid.Row="0" Grid.Column="2" Height="20"  Width="120" HorizontalAlignment="Right"/>
             </StackPanel>
                 <!--BASIC INFO-->
@@ -47,22 +48,29 @@
                     <RowDefinition Height="1*"/>
                     <RowDefinition Height="1*"/>
                 </Grid.RowDefinitions>
-                <Label Content="Group:" Grid.Row="0" Grid.Column="0" Margin="30,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
-                <ComboBox Name="GroupComboBox" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="120"
-                  Margin="0,0,0,0" SelectedIndex="0" ItemsSource="{Binding GroupList}"/>
-                <Label Content="Building:" Grid.Row="1" Grid.Column="0" Margin="30,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
-                <ComboBox Name="BuildingComboBox" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="120"
-                  Margin="0,0,0,0" SelectedIndex="0" DisplayMemberPath="Name"/>
+                <Label Content="Building:" Grid.Row="0" Grid.Column="0" Margin="30,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+                <ComboBox Name="buildingComboBox" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="120"
+                  Margin="0,0,0,0" SelectionChanged="buildingComboBox_SelectionChanged" DisplayMemberPath="Name"/>
+                <Label Content="Group:" Grid.Row="1" Grid.Column="0" Margin="30,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+                <Label Name="groupLabel" Content="Group Here" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="120" Margin="0,0,0,0"/>
+
             </Grid>
             <!--Computers-->
-            <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="30,0,0,0">
+            <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="30,0,30,0">
                 <Label Content="Computers" FontSize="16" FontWeight="DemiBold" Margin="0,0,30,0" Height="30"  HorizontalAlignment="Stretch" VerticalAlignment="Bottom" VerticalContentAlignment="Bottom"/>
-                <Label Name="computersSelectedLabel"  Content="Selected: " Margin="0,0,0,0" Height="25"  HorizontalAlignment="Stretch" VerticalAlignment="Top" VerticalContentAlignment="Top"/>
-            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Name="computersSelectedLabel"  Content="Selected: " Margin="0,0,0,0" Height="25"  HorizontalAlignment="Stretch" VerticalAlignment="Top" VerticalContentAlignment="Top"/>
+                    <Button Name="deselectComputersButton" Content="Clear" Click="deselectComputersButton_Click" Grid.Row="1" Grid.Column="0" Height="20"  Width="40" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,0,0" VerticalContentAlignment="Center"/>
+                </StackPanel>
+                </StackPanel>
             <ListBox Name="computersListBox" SelectionMode="Extended" Grid.Row="3" Grid.Column="0" SelectionChanged="computersListBox_SelectionChanged" MouseDoubleClick="computersListBox_MouseDoubleClick" Margin="30,0,30,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
-                        <TextBlock Text="{Binding Name}" />
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Name}" />
+                            <TextBlock Text=" - " />
+                            <TextBlock Text="{Binding LastCleaned, StringFormat={}{0:m/dd/yy}}" />
+                        </StackPanel>
                     </DataTemplate>
                 </ListBox.ItemTemplate>
             </ListBox>
@@ -106,7 +114,7 @@
             <Grid Grid.Row="3" Grid.Column="2">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="1*" />
-                    <ColumnDefinition Width="1.6*" />
+                    <ColumnDefinition Width="1*" />
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="25"/>
@@ -119,8 +127,8 @@
                 <CheckBox Content="Whiteboard" IsChecked="{Binding HasWhiteboard}"  Grid.Row="0" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
                 <CheckBox Content="Blackboard" IsChecked="{Binding HasBlackboard}"  Grid.Row="1" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
                 <CheckBox Content="Posterboard" IsChecked="{Binding HasPosterboard}"  Grid.Row="2" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-                <CheckBox Content="Clock" IsChecked="{Binding HasClock}"  Grid.Row="0" Grid.Column="2" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-                <CheckBox Content="Inventory" IsChecked="{Binding HasInventory}"  Grid.Row="1" Grid.Column="2" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox Content="Clock" IsChecked="{Binding HasClock}"  Grid.Row="0" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox Content="Inventory" IsChecked="{Binding HasInventory}"  Grid.Row="1" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
             </Grid>
         </Grid>
     </DockPanel>

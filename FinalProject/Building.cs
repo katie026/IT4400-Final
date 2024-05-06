@@ -17,6 +17,7 @@ namespace FinalProject
     [Serializable]
     public enum CampusGroup
     {
+        All,
         G1,
         G2,
         G3,
