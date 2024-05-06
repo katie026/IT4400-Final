@@ -13,7 +13,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
-using System.Collections.ObjectModel;
 
 namespace FinalProject
 {
@@ -49,7 +48,7 @@ namespace FinalProject
         // new values changed by the window
         Building building; // for reference
         ComputingSite selectedSite; // properties can be changed
-        ObservableCollection<EquipmentItem> computers; // properties can be changed
+        List<EquipmentItem> computers; // properties can be changed
         List<EquipmentItem> printers; // properties can be changed
 
 
@@ -105,23 +104,22 @@ namespace FinalProject
             DataContext = this;
 
             // COMPUTERS
-            computers = new ObservableCollection<EquipmentItem>(
-                equipmentItems
-                    .Where(item => item.SiteId == _selectedComputingSite.Id &&
-                           (item.EquipmentType == EquipmentType.windowsComputer ||
-                            item.EquipmentType == EquipmentType.macComputer))
-                    .OrderBy(computer => computer.Name)
-                    .ThenBy(computer => computer.LastCleaned)
-            );
+            computers = equipmentItems
+                .Where(item => item.SiteId == _selectedComputingSite.Id && (item.EquipmentType == EquipmentType.windowsComputer || item.EquipmentType == EquipmentType.macComputer))
+                .ToList();
+            computers = computers.OrderBy(computer => computer.Name).ThenBy(computer => computer.LastCleaned).ToList();
+            computersListBox.ItemsSource = null;
             computersListBox.ItemsSource = computers;
 
             // PRINTERS
             printers = equipmentItems
                 .Where(item => item.SiteId == _selectedComputingSite.Id && (item.EquipmentType == EquipmentType.blackWhitePrinter || item.EquipmentType == EquipmentType.colorPrinter))
                 .ToList();
+            printersListBox.ItemsSource = null;
             printersListBox.ItemsSource = printers;
 
             // BUILDINGS & GROUP
+            buildingComboBox.ItemsSource= null;
             buildingComboBox.ItemsSource= buildings;
             building = buildings.FirstOrDefault(building => building.Id == selectedSite.Building);
             if (building != null)
@@ -266,7 +264,10 @@ namespace FinalProject
 
         private void newComputer_Click(object sender, RoutedEventArgs e)
         {
-
+            computers.Add(new EquipmentItem(Guid.NewGuid().ToString(),selectedSite.Id,EquipmentType.windowsComputer,"New Computer")
+            );
+            computersListBox.ItemsSource = null;
+            computersListBox.ItemsSource = computers;
         }
 
         private void removeComputers_Click(object sender, RoutedEventArgs e)
@@ -279,18 +280,16 @@ namespace FinalProject
             // loop thorugh selected computers and update lastCleaned
             foreach (var selectedItem in computersListBox.SelectedItems)
             {
+                // get computer from selcted items
                 var selectedComputer = (EquipmentItem)selectedItem;
-                selectedComputer.LastCleaned = DateTime.Now;
-                //// get computer from selcted items
-                //var selectedComputer = (EquipmentItem)selectedItem;
-                //// update in computers list
-                //int index = computers.FindIndex(computer => computer.Id == selectedComputer.Id);
-                //computers[index].LastCleaned = DateTime.Now;
-                //// update binding
-                //computersListBox.ItemsSource = computers;
-                //MessageBox.Show($"updated computer cleaned: {computers[index].Name} to {computers[index].LastCleaned.ToString()}");
+                // update in computers list
+                int index = computers.FindIndex(computer => computer.Id == selectedComputer.Id);
+                computers[index].LastCleaned = DateTime.Now;
             }
             computersListBox.SelectedItems.Clear();
+            // update binding
+            computersListBox.ItemsSource = null;
+            computersListBox.ItemsSource = computers;
         }
 
         private void newPrinter_Click(object sender, RoutedEventArgs e)

@@ -36,7 +36,7 @@
             <!--SUBMIT CHANGES-->
             <StackPanel Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Margin="0,15,15,0" VerticalAlignment="Top">
                 <!--<Button Name="submitChangesButton" Content="Submit Changes" Click="submitChangesButton_Click" Grid.Row="0" Grid.Column="2" Height="20"  Width="120" HorizontalAlignment="Right" Margin="0,0,0,10"/>-->
-                <Button Name="revertChangesButton" Content="Revert Changes" Click="revertChangesButton_Click" Grid.Row="0" Grid.Column="2" Height="20"  Width="120" HorizontalAlignment="Right"/>
+                <!--<Button Name="revertChangesButton" Content="Revert Changes" Click="revertChangesButton_Click" Grid.Row="0" Grid.Column="2" Height="20"  Width="120" HorizontalAlignment="Right"/>-->
             </StackPanel>
                 <!--BASIC INFO-->
             <Grid Grid.Row="1" Grid.Column="0">
@@ -69,7 +69,7 @@
                         <StackPanel Orientation="Horizontal">
                             <TextBlock Text="{Binding Name}" />
                             <TextBlock Text=" - " />
-                            <TextBlock Text="{Binding LastCleaned, StringFormat={}{0:m/dd/yy}}" />
+                            <TextBlock Text="{Binding LastCleaned, StringFormat={}{0:MM/dd/yy}}" />
                         </StackPanel>
                     </DataTemplate>
                 </ListBox.ItemTemplate>
@@ -127,7 +127,7 @@
                 <CheckBox Content="Whiteboard" IsChecked="{Binding HasWhiteboard}"  Grid.Row="0" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
                 <CheckBox Content="Blackboard" IsChecked="{Binding HasBlackboard}"  Grid.Row="1" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
                 <CheckBox Content="Posterboard" IsChecked="{Binding HasPosterboard}"  Grid.Row="2" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-                <CheckBox Content="Clock" IsChecked="{Binding HasClock}"  Grid.Row="0" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox Content="Clock" IsChecked="{Binding HasClock}" Grid.Row="0" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
                 <CheckBox Content="Inventory" IsChecked="{Binding HasInventory}"  Grid.Row="1" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
             </Grid>
         </Grid>
