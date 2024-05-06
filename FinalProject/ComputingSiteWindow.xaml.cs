@@ -19,16 +19,19 @@ namespace FinalProject
     /// </summary>
     public partial class ComputingSiteWindow : Window
     {
+        // passed in
         public App myApp;
         private MainWindow _parentWindow;
         private ComputingSite _selectedComputingSite;
 
+        // copies of the campus data
         List<Building> buildings;
         List<ComputingSite> computingSites;
         List<InventorySite> inventorySites;
         List<EquipmentItem> equipmentItems;
         List<SupplyCount> supplyCounts;
 
+        // new values set by the window
         Building building;
         List<EquipmentItem> computers;
         List<EquipmentItem> printers;
@@ -89,7 +92,30 @@ namespace FinalProject
             // populate Groups
             // get all enum values
             GroupList = CampusGroup.GetValues(typeof(CampusGroup)).Cast<CampusGroup>().ToList();
+            // bind GroupComboBox
             DataContext = this;
+            UpdateGroup();
+        }
+
+        private void SendDataToParent()
+        {
+            // recombine equipment items
+            equipmentItems = equipmentItems.Concat(computers).Concat(printers).Distinct().ToList();
+            // update this site's information
+            int buildingIndex = buildings.FindIndex(building => building.Id == _selectedComputingSite.Building);
+            buildings[buildingIndex] = building; // update building and/or group
+            int siteIndex = computingSites.FindIndex(site => site.Id == _selectedComputingSite.Id);
+
+            _parentWindow.UpdateCampusData(buildings, computingSites, inventorySites, equipmentItems, supplyCounts);
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            UpdateGroup();
+        }
+
+        private void UpdateGroup()
+        {
             if (building != null)
             {
                 GroupComboBox.SelectedItem = building.Group;
@@ -99,16 +125,6 @@ namespace FinalProject
             {
                 GroupComboBox.SelectedItem = null;
             }
-        }
-
-        private void SendDataToParent()
-        {
-            _parentWindow.UpdateCampusData(buildings, computingSites, inventorySites, equipmentItems, supplyCounts);
-        }
-
-        private void Window_Loaded(object sender, RoutedEventArgs e)
-        {
-            
         }
 
         private void Window_Closed(object sender, EventArgs e)
@@ -125,7 +141,8 @@ namespace FinalProject
 
         private void computersListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-
+            int selectedComputersCount = computersListBox.SelectedItems.Count;
+            computersSelectedLabel.Content = $"Selected: {selectedComputersCount}";
         }
 
         private void computersListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
@@ -141,6 +158,51 @@ namespace FinalProject
         private void printersListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
 
+        }
+
+        private void submitChangesButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void newComputer_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void removeComputers_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void cleanComputers_Click(object sender, RoutedEventArgs e)
+        {
+            // loop thorugh selected computers and count
+            foreach (var selectedItem in computersListBox.SelectedItems)
+            {
+                // Do something with each selected item
+                // For example, you can cast it to the appropriate type
+                // and access its properties
+                var listBoxItem = (EquipmentItem)selectedItem;
+                // Or if you have a custom object bound to the ListBox
+                // var item = (YourItemType)selectedItem;
+                // Then you can access its properties
+            }
+        }
+
+        private void newPrinter_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void removePrinters_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void revertChangesButton_Click(object sender, RoutedEventArgs e)
+        {
+            SetData();
         }
     }
 }
