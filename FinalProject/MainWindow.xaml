@@ -1,0 +1,63 @@
+﻿<Window x:Class="FinalProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="Sites Inventory" Height="700" Width="1000"
+        Closed="Window_Closed">
+    <DockPanel Height="Auto" Width="Auto" x:Name="dockPanel1" LastChildFill="True">
+        <Menu Height="23" x:Name="menu1" Width="Auto" DockPanel.Dock="Top">
+            <!-- File Menu -->
+            <MenuItem Header="File">
+                <Separator/>
+                <MenuItem Header="Exit" x:Name="exit_menuItem" Click="exit_menuItem_Click" />
+            </MenuItem>
+        </Menu>
+        <Grid Height="auto" x:Name="grid1" Width="Auto">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100" MinHeight="30"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!--TITLE-->
+            <Label Name="windowLabel" Content="University of Missouri Computing Sites" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Height="43" HorizontalAlignment="Center" Margin="0,31,0,0" VerticalAlignment="Top" Width="503" FontSize="24" HorizontalContentAlignment="Center" FontWeight="Bold" MinWidth="340" />
+            <!--Buildings-->
+            <Label Content="Buildings" Grid.Row="1" Grid.Column="0" FontSize="16" FontWeight="DemiBold" Margin="30,0,30,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+            <ListBox Name="buildingsListBox" Grid.Row="2" Grid.Column="0" SelectionChanged="BuildingsListBox_SelectionChanged" MouseDoubleClick="BuildingsListBox_MouseDoubleClick" Margin="30,0,30,30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <!--Computing Sites-->
+            <Label Content="Computing Sites" Grid.Row="1" Grid.Column="1" FontSize="16" FontWeight="DemiBold" Margin="30,0,30,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+            <ListBox Name="computingSitesListBox" Grid.Row="2" Grid.Column="1" SelectionChanged="ComputingSitesListBox_SelectionChanged" MouseDoubleClick="ComputingSitesListBox_MouseDoubleClick"  Margin="30,0,30,30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <!--Inventory Sites-->
+            <Label Content="Inventory Sites" Grid.Row="1" Grid.Column="2" FontSize="16" FontWeight="DemiBold" Margin="30,0,30,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+            <ListBox Name="inventorySitesListBox" Grid.Row="2" Grid.Column="2" SelectionChanged="InventorySitesListBox_SelectionChanged" MouseDoubleClick="InventorySitesListBox_MouseDoubleClick" Margin="30,0,30,30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <!--TextBox-->
+            <TextBox x:Name="textBox" Width="400" Height="30" HorizontalAlignment="Stretch" VerticalAlignment="Top" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Margin="10,10,0,0" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True"/>
+        </Grid>
+    </DockPanel>
+</Window>
