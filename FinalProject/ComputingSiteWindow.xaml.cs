@@ -32,6 +32,8 @@ namespace FinalProject
         Building building;
         List<EquipmentItem> computers;
         List<EquipmentItem> printers;
+        public List<CampusGroup> GroupList { get; set; }
+
 
         public ComputingSiteWindow(MainWindow parentWindow, ComputingSite selectedComputingSite)
         {
@@ -83,11 +85,30 @@ namespace FinalProject
                     BuildingComboBox.SelectedItem = null;
                 }
             }
+
+            // populate Groups
+            // get all enum values
+            GroupList = CampusGroup.GetValues(typeof(CampusGroup)).Cast<CampusGroup>().ToList();
+            DataContext = this;
+            if (building != null)
+            {
+                GroupComboBox.SelectedItem = building.Group;
+                //MessageBox.Show($"Set group to {building.Group}");
+            }
+            else
+            {
+                GroupComboBox.SelectedItem = null;
+            }
         }
 
         private void SendDataToParent()
         {
             _parentWindow.UpdateCampusData(buildings, computingSites, inventorySites, equipmentItems, supplyCounts);
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            
         }
 
         private void Window_Closed(object sender, EventArgs e)

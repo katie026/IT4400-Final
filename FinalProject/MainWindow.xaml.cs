@@ -33,8 +33,6 @@ namespace FinalProject
         public List<SupplyCount> supplyCounts;
         public List<SupplyCount> filteredSupplyCounts;
 
-        private Building previouslySelectedBuilding;
-
         public MainWindow()
         {
             InitializeComponent();
@@ -151,7 +149,12 @@ namespace FinalProject
 
         private void BuildingsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-
+            // unfilter ComputingSites ListBox
+            filteredComputingSites = computingSites.ToList();
+            computingSitesListBox.ItemsSource = filteredComputingSites;
+            // unfilter InventorySites ListBox
+            filteredInventorySites = inventorySites.ToList();
+            inventorySitesListBox.ItemsSource = filteredInventorySites;
         }
 
         private void ComputingSitesListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -173,20 +176,11 @@ namespace FinalProject
                 var selectedItem = (Building)buildingsListBox.SelectedItem;
 
                 // filter ComputingSites ListBox
-                if (previouslySelectedBuilding == selectedItem)
-                {
-                    // if clicked on the same building, unfilter the ComputingSites ListBox
-                    computingSitesListBox.ItemsSource = computingSites;
-                    previouslySelectedBuilding = null; // reset the previously selected item
-                    buildingsListBox.SelectedItem = null;
-                }
-                else
-                {
-                    // filter ComputingSites ListBox
-                    filteredComputingSites = computingSites.Where(site => site.Building == selectedItem.Id).ToList();
-                    computingSitesListBox.ItemsSource = filteredComputingSites;
-                    previouslySelectedBuilding = selectedItem; // store the currently selected item
-                }
+                filteredComputingSites = computingSites.Where(site => site.Building == selectedItem.Id).ToList();
+                computingSitesListBox.ItemsSource = filteredComputingSites;
+                // filter InventorySites ListBox
+                filteredInventorySites = inventorySites.Where(site => site.Building == selectedItem.Id).ToList();
+                inventorySitesListBox.ItemsSource = filteredInventorySites;
             }
         }
 
@@ -221,5 +215,13 @@ namespace FinalProject
                 MessageBox.Show($"Double-clicked on: {selectedItem.Name}");
             }
         }
+    }
+}
+
+public static class EnumExtensions
+{
+    public static List<string> GetEnumNames<T>()
+    {
+        return Enum.GetNames(typeof(T)).ToList();
     }
 }
