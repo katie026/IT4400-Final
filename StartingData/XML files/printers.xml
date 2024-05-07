@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfEquipmentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EquipmentItem>
+    <Id>08AjMaiZsKtM5WLRBEst</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Lafferre C1249 Printer</Name>
+    <LastCleaned>2024-05-05T21:53:35.949999</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0fkrVOw1lWj1kxm56PDx</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Stanley</Name>
+    <LastCleaned>2024-05-05T21:53:35.950087</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4ScNsFguv4UWmerOnP0Z</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Cornell Printer 4</Name>
+    <LastCleaned>2024-05-05T21:53:35.950093</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5SAAJHTwaZPeV8fsTRzv</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BINGHAM Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950098</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5cYpJS4PModdKX2zYBIY</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>colorPrinter</EquipmentType>
+    <Name>Clark Printer 2</Name>
+    <LastCleaned>2024-05-05T21:53:35.950103</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>82HXcCJrq6MFg3oyDkXM</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BROOKS Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950111</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8ExAX6nSqyHfzNDgNDio</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Cornell Printer 5</Name>
+    <LastCleaned>2024-05-05T21:53:35.950115</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>FMaEKzFXTcLlakGtlmRD</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <Name>Clark Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950132</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HBbIotN04iVnGSDWCp3K</Id>
+    <SiteId>BezlCe1ospf57zMdop2z</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BLUFORD Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950137</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HJO91FT9FF9YZToZbzzT</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>A&amp;S 41 Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950144</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>I0s4duM6TTdVgQjJ5sm9</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Strickland 222</Name>
+    <LastCleaned>2024-05-05T21:53:35.950148</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>N5nLQ5gzaCm7FNypjoOs</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>EBW 145</Name>
+    <LastCleaned>2024-05-05T21:53:35.950154</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>NE6pJhrKqbP26goL53Qo</Id>
+    <SiteId>NhuQrCUj5wz0XwMWoe7m</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BCC 122 Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950158</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Q2GgSXfaYgoKy4s9yGte</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>WOLP Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950162</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RkSgmvd08pdfmt41GVn6</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Middlebush Printer 8</Name>
+    <LastCleaned>2024-05-05T21:53:35.950166</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VOiNyJOdHxOpkhMrzlp5</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Gateway</Name>
+    <LastCleaned>2024-05-05T21:53:35.950170</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Yu8IJukpHYZXfQe9lPrS</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>colorPrinter</EquipmentType>
+    <Name>Ellis 1B</Name>
+    <LastCleaned>2024-05-05T21:53:35.950174</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aVY78htFdrbJbZ4mReu2</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Respect</Name>
+    <LastCleaned>2024-05-05T21:53:35.950178</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>coHZOvckafgeMpy5h75p</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Middlebush Printer 7</Name>
+    <LastCleaned>2024-05-05T21:53:35.950184</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dj5dGzh9WaYsEQUkk1AW</Id>
+    <SiteId>5vU1Myky30ndHMBVftHD</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Mark Twain</Name>
+    <LastCleaned>2024-05-05T21:53:35.950188</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fwLXsMumr69cIyiyHOPF</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Physics Printer</Name>
+    <LastCleaned>2024-05-05T21:53:35.950192</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>g9mLMaJFhNiGjF2c7RuD</Id>
+    <SiteId>udWRQBhoYNF93gl8hAnt</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Mark Twain Lobby</Name>
+    <LastCleaned>2024-05-05T21:53:35.950196</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>r5qLc3lfSt6wMbkOxAJK</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Strickland 124</Name>
+    <LastCleaned>2024-05-05T21:53:35.950200</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vQA9MPi60IkxHnscWGaP</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Johnston Hall</Name>
+    <LastCleaned>2024-05-05T21:53:35.950204</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wH2N6hC1deu6Ejt4EZwW</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>ROLLINS Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950210</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xNRce57Zn12PM4HmYaZ7</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Cornell Printer 3</Name>
+    <LastCleaned>2024-05-05T21:53:35.950214</LastCleaned>
+    <ConnectedComputerId></ConnectedComputerId>
+  </EquipmentItem>
+</ArrayOfEquipmentItem>
