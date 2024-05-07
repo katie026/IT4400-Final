@@ -65,17 +65,15 @@ namespace FinalProject
         {
             doingCloseAll = true;
 
-            // Go through the list of windows and close them.
-            foreach (Window myWindow in myWindows)
+            // temporary list to avoid modification during iteration
+            List<Window> windowsToClose = new List<Window>(myWindows);
+            foreach (Window window in windowsToClose)
             {
-                if (myWindow != null)
-                {
-                    myWindow.Close();
-                }
+                window.Close(); // Close must not modify myWindows directly
             }
 
-            // Clear out all the items in the list of windows.
-            myWindows.Clear();
+            myWindows.Clear(); // clear the original list after all windows are closed
+            doingCloseAll = false;
         }
     }
 }

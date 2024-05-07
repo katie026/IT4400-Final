@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FinalProject"
         mc:Ignorable="d"
-        Title="ComputingSiteWindow" Height="600" Width="800" MinHeight="400" MinWidth="600"
+        Title="Computing Site" Height="600" Width="800" MinHeight="400" MinWidth="600"
         Loaded="Window_Loaded"
         Closed="Window_Closed"
         Closing="Window_Closing">
@@ -89,7 +89,7 @@
             </Grid>
             <!--Printers-->
             <Label Content="Printers" Grid.Row="2" Grid.Column="1" FontSize="16" FontWeight="DemiBold" Margin="30,0,30,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-            <ListBox Name="printersListBox" Grid.Row="3" Grid.Column="1" SelectionChanged="printersListBox_SelectionChanged" MouseDoubleClick="printersListBox_MouseDoubleClick" Margin="30,0,30,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <ListBox Name="printersListBox" Grid.Row="3" Grid.Column="1" SelectionMode="Extended" SelectionChanged="printersListBox_SelectionChanged" MouseDoubleClick="printersListBox_MouseDoubleClick" Margin="30,0,30,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
                         <TextBlock Text="{Binding Name}" />
@@ -124,11 +124,11 @@
                     <RowDefinition Height="25"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
-                <CheckBox Content="Whiteboard" IsChecked="{Binding HasWhiteboard}"  Grid.Row="0" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-                <CheckBox Content="Blackboard" IsChecked="{Binding HasBlackboard}"  Grid.Row="1" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-                <CheckBox Content="Posterboard" IsChecked="{Binding HasPosterboard}"  Grid.Row="2" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-                <CheckBox Content="Clock" IsChecked="{Binding HasClock}" Grid.Row="0" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
-                <CheckBox Content="Inventory" IsChecked="{Binding HasInventory}"  Grid.Row="1" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox x:Name="whiteboardCheckBox"  Content="Whiteboard" IsChecked="{Binding HasWhiteboard}" Checked="whiteboardCheckBox_Checked" Unchecked="whiteboardCheckBox_Unchecked" Grid.Row="0" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox x:Name="blackboardCheckBox" Content="Blackboard" IsChecked="{Binding HasBlackboard}" Checked="blackboardCheckBox_Checked" Unchecked="blackboardCheckBox_Unchecked" Grid.Row="1" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox x:Name="posterboardCheckBox" Content="Posterboard" IsChecked="{Binding HasPosterboard}" Checked="posterboardCheckBox_Checked" Unchecked="posterboardCheckBox_Unchecked" Grid.Row="2" Grid.Column="0" Margin="35,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox x:Name="clockCheckBox" Content="Clock" IsChecked="{Binding HasClock}" Grid.Row="0" Checked="clockCheckBox_Checked" Unchecked="clockCheckBox_Unchecked" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
+                <CheckBox x:Name="inventoryCheckBox" Content="Inventory" IsChecked="{Binding HasInventory}" Checked="inventoryCheckBox_Checked" Unchecked="inventoryCheckBox_Unchecked" Grid.Row="1" Grid.Column="2" Margin="0,0,0,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center"/>
             </Grid>
         </Grid>
     </DockPanel>

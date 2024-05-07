@@ -41,5 +41,14 @@ namespace FinalProject
         public int Count { get { return count; } set { count = value; } }
         public int Level { get { return level; } set { level = value; } }
         public int Threshold { get { return threshold; } set { threshold = value; } }
+
+        public SupplyCount() { }
+        public SupplyCount(string siteId, SupplyType type, int count, int level)
+        {
+            siteId = siteId;
+            type = type;
+            count = count;
+            level = level;
+        }
     }
 }

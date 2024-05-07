@@ -72,7 +72,7 @@ namespace FinalProject
             {
                 // If serialization fails, warn the user
                 MessageBoxResult result = MessageBox.Show($"Serialization failed: {ex.Message} Do you want to continue closing the application?",
-                                                          "Serialization Error", MessageBoxButton.YesNo, MessageBoxImage.Warning);
+                "Serialization Error", MessageBoxButton.YesNo, MessageBoxImage.Warning);
 
                 // If the user clicks Yes, continue closing the application
                 if (result == MessageBoxResult.Yes)
@@ -145,7 +145,7 @@ namespace FinalProject
             // join operation to associate each computing site with its corresponding building
             var sortedComputingSites = from site in computingSites
                                        join building in buildings on site.Building equals building.Id
-                                       orderby building.Group, site.Name
+                                       orderby site.Name, building.Group
                                        select site;
             // Convert the result to a list
             computingSites = sortedComputingSites.ToList();
@@ -153,7 +153,7 @@ namespace FinalProject
             // join operation to associate each inventory site with its corresponding building
             var sortedInventorySites = from site in inventorySites
                                        join building in buildings on site.Building equals building.Id
-                                       orderby building.Group, site.Name
+                                       orderby site.Name, building.Group
                                        select site;
             // Convert the result to a list
             inventorySites = sortedInventorySites.ToList();
@@ -165,6 +165,11 @@ namespace FinalProject
             this.computingSites = computingSites;
             this.inventorySites = inventorySites;
             this.equipmentItems = equipmentItems;
+            this.supplyCounts = supplyCounts;
+        }
+
+        public void UpdateSupplyData(List<SupplyCount> supplyCounts)
+        {
             this.supplyCounts = supplyCounts;
         }
 
@@ -258,8 +263,14 @@ namespace FinalProject
                 // get the selected item
                 var selectedItem = (InventorySite)inventorySitesListBox.SelectedItem;
 
-                // Perform the desired action with the selected item
-                MessageBox.Show($"Double-clicked on: {selectedItem.Name}");
+                // create new window
+                InventorySiteWindow newSiteWindow = new InventorySiteWindow(this, selectedItem);
+                // give it a pointer to myApp
+                newSiteWindow.myApp = myApp;
+                // add to list of windows
+                myApp.AddWindow(newSiteWindow);  // remember window in list of windows
+                // show window
+                newSiteWindow.Show();
             }
         }
 

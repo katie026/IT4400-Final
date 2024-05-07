@@ -1,0 +1,29 @@
+﻿<Window x:Class="FinalProject.NewComputerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Title="New Computer" Height="400" Width="400"
+        Loaded="Window_Loaded"
+        Closed="Window_Closed">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Label Name="windowLabel" Content="Computing Site" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Height="43" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="503" FontSize="24" HorizontalContentAlignment="Center" FontWeight="Bold" MinWidth="340" />
+        <Label Content="Type:" Grid.Row="1" Grid.Column="0" Height="43" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="100" FontSize="18" HorizontalContentAlignment="Center"/>
+        <ComboBox Name="typeComboBox"  SelectedIndex="0" SelectionChanged="typeComboBox_SelectionChanged" Grid.Row="1" Grid.Column="1" Height="35" HorizontalAlignment="Stretch" Margin="15,0,15,0" VerticalAlignment="Center" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label Content="Name:" Grid.Row="2" Grid.Column="0" Height="43" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="100" FontSize="18" HorizontalContentAlignment="Center"/>
+        <TextBox Name="nameTextBox" TextChanged="nameTextBox_TextChanged" Grid.Row="2" Grid.Column="1" Height="35" HorizontalAlignment="Stretch" Margin="15,0,15,0" VerticalAlignment="Center" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button Name="submitButton" Content="SUBMIT" Click="submitButton_Click" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="15,15,15,15" FontSize="26"/>
+    </Grid>
+</Window>

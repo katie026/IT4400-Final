@@ -47,10 +47,14 @@ namespace FinalProject
 
         // new values changed by the window
         Building building; // for reference
-        ComputingSite selectedSite; // properties can be changed
+        public ComputingSite selectedSite; // properties can be changed
         List<EquipmentItem> computers; // properties can be changed
         List<EquipmentItem> printers; // properties can be changed
-
+        public bool HasWhiteboard { get; set; }
+        public bool HasBlackboard { get; set; }
+        public bool HasPosterboard { get; set; }
+        public bool HasInventory { get; set; }
+        public bool HasClock { get; set; }
 
         public ComputingSiteWindow(MainWindow parentWindow, ComputingSite selectedComputingSite)
         {
@@ -65,7 +69,7 @@ namespace FinalProject
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            CloneOriginalData();
+            //CloneOriginalData();
             // make refernces to data given from parent window
             buildings = _parentWindow.buildings;
             computingSites = _parentWindow.computingSites;
@@ -73,6 +77,12 @@ namespace FinalProject
             equipmentItems = _parentWindow.equipmentItems;
             supplyCounts = _parentWindow.supplyCounts;
             selectedSite = _selectedComputingSite;
+
+            HasWhiteboard = selectedSite.HasWhiteboard;
+            HasBlackboard = selectedSite.HasBlackboard;
+            HasPosterboard = selectedSite.HasPosterBoard;
+            HasInventory = selectedSite.HasInventory;
+            HasClock = selectedSite.HasClock;
             RefreshBindings();
         }
 
@@ -101,7 +111,9 @@ namespace FinalProject
 
         private void RefreshBindings()
         {
+            //SITE INFO
             DataContext = this;
+            UpdateCheckboxStates();
 
             // COMPUTERS
             computers = equipmentItems
@@ -139,6 +151,11 @@ namespace FinalProject
             // update equipment items
             equipmentItems = equipmentItems.Concat(computers).Concat(printers).Distinct().ToList();
             // update site information
+            selectedSite.HasWhiteboard = HasWhiteboard;
+            selectedSite.HasBlackboard = HasBlackboard;
+            selectedSite.HasPosterBoard = HasPosterboard;
+            selectedSite.HasInventory = HasInventory;
+            selectedSite.HasClock = HasClock;
             int siteIndex = computingSites.FindIndex(site => site.Id == _selectedComputingSite.Id);
             computingSites[siteIndex] = selectedSite;
 
@@ -236,6 +253,37 @@ namespace FinalProject
             }
         }
 
+        private void UpdateCheckboxStates()
+        {
+            // Update checkbox states based on the current properties
+            DataContext = this;
+            whiteboardCheckBox.IsChecked = HasWhiteboard;
+            blackboardCheckBox.IsChecked = HasBlackboard;
+            posterboardCheckBox.IsChecked = HasPosterboard;
+            inventoryCheckBox.IsChecked = HasInventory;
+            clockCheckBox.IsChecked = HasClock;
+        }
+
+        public void AddComputer(EquipmentType equipmentType, string name)
+        {
+            // add new computers
+            computers.Add(new EquipmentItem(Guid.NewGuid().ToString(), selectedSite.Id, equipmentType, name));
+            // sort
+            computers = computers.OrderBy(computer => computer.Name).ThenBy(computer => computer.LastCleaned).ToList();
+            // update binding
+            computersListBox.ItemsSource = null;
+            computersListBox.ItemsSource = computers;
+        }
+        public void AddPrinter(EquipmentType equipmentType, string name)
+        {
+            // add new computers
+            printers.Add(new EquipmentItem(Guid.NewGuid().ToString(), selectedSite.Id, equipmentType, name));
+            // sort
+            printers = printers.OrderBy(printer => printer.Name).ThenBy(printer => printer.LastCleaned).ToList();
+            // update binding
+            printersListBox.ItemsSource = null;
+            printersListBox.ItemsSource = printers;
+        }
         private void computersListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             int selectedComputersCount = computersListBox.SelectedItems.Count;
@@ -264,15 +312,45 @@ namespace FinalProject
 
         private void newComputer_Click(object sender, RoutedEventArgs e)
         {
-            computers.Add(new EquipmentItem(Guid.NewGuid().ToString(),selectedSite.Id,EquipmentType.windowsComputer,"New Computer")
-            );
-            computersListBox.ItemsSource = null;
-            computersListBox.ItemsSource = computers;
+            // create new window
+            NewComputerWindow newWindow = new NewComputerWindow(this);
+            // give it a pointer to myApp
+            newWindow.myApp = this.myApp;
+            // add to list of windows
+            myApp.AddWindow(newWindow);  // remember window in list of windows
+            // show window
+            newWindow.Show();
         }
 
         private void removeComputers_Click(object sender, RoutedEventArgs e)
         {
+            // If serialization fails, warn the user
+            MessageBoxResult result = MessageBox.Show($"Are you sure you want to delete {computersListBox.SelectedItems.Count} computer(s)? This action cannot be undone.",
+                                                      "Confirm Deletion", MessageBoxButton.YesNo, MessageBoxImage.Warning);
 
+            // If the user clicks Yes, continue closing the application
+            if (result == MessageBoxResult.Yes)
+            {
+                // loop thorugh selected computers and remove from computers
+                foreach (var selectedItem in computersListBox.SelectedItems)
+                {
+                    // get computer from selcted items
+                    var selectedComputer = (EquipmentItem)selectedItem;
+                    // delete in computers list
+                    int index = computers.FindIndex(computer => computer.Id == selectedComputer.Id);
+                    computers.RemoveAt(index);
+                }
+                // clear selection
+                computersListBox.SelectedItems.Clear();
+                // update binding
+                computersListBox.ItemsSource = null;
+                computersListBox.ItemsSource = computers;
+            }
+            // If the user clicks No, cancel closing the application
+            else if (result == MessageBoxResult.No)
+            {
+                // do nothing
+            }
         }
 
         private void cleanComputers_Click(object sender, RoutedEventArgs e)
@@ -294,12 +372,45 @@ namespace FinalProject
 
         private void newPrinter_Click(object sender, RoutedEventArgs e)
         {
-
+            // create new window
+            NewPrinterWindow newWindow = new NewPrinterWindow(this);
+            // give it a pointer to myApp
+            newWindow.myApp = this.myApp;
+            // add to list of windows
+            myApp.AddWindow(newWindow);  // remember window in list of windows
+            // show window
+            newWindow.Show();
         }
 
         private void removePrinters_Click(object sender, RoutedEventArgs e)
         {
+            // If serialization fails, warn the user
+            MessageBoxResult result = MessageBox.Show($"Are you sure you want to delete {printersListBox.SelectedItems.Count} printer(s)? This action cannot be undone.",
+                                                      "Confirm Deletion", MessageBoxButton.YesNo, MessageBoxImage.Warning);
 
+            // If the user clicks Yes, continue closing the application
+            if (result == MessageBoxResult.Yes)
+            {
+                // loop thorugh selected computers and remove from computers
+                foreach (var selectedItem in printersListBox.SelectedItems)
+                {
+                    // get computer from selcted items
+                    var selectedPrinter = (EquipmentItem)selectedItem;
+                    // delete in computers list
+                    int index = printers.FindIndex(printer => printer.Id == selectedPrinter.Id);
+                    printers.RemoveAt(index);
+                }
+                // clear selection
+                printersListBox.SelectedItems.Clear();
+                // update binding
+                printersListBox.ItemsSource = null;
+                printersListBox.ItemsSource = printers;
+            }
+            // If the user clicks No, cancel closing the application
+            else if (result == MessageBoxResult.No)
+            {
+                // do nothing
+            }
         }
 
         private void revertChangesButton_Click(object sender, RoutedEventArgs e)
@@ -332,6 +443,66 @@ namespace FinalProject
                 // update group label
                 groupLabel.Content = building.Group;
             }
+        }
+
+        private void whiteboardCheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            HasWhiteboard = true;
+            whiteboardCheckBox.IsChecked = true;
+        }
+
+        private void whiteboardCheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            HasWhiteboard = false;
+            whiteboardCheckBox.IsChecked = false; 
+        }
+
+        private void blackboardCheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            HasBlackboard = true;
+            blackboardCheckBox.IsChecked = true;
+        }
+
+        private void blackboardCheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            HasBlackboard= false;
+            blackboardCheckBox.IsChecked = false;
+        }
+
+        private void posterboardCheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            HasPosterboard = true;
+            posterboardCheckBox.IsChecked = true;
+        }
+
+        private void posterboardCheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            HasPosterboard= false;
+            posterboardCheckBox.IsChecked = false;
+        }
+
+        private void clockCheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            HasClock = true;
+            clockCheckBox.IsChecked = true;
+        }
+
+        private void clockCheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            HasClock= false;
+            clockCheckBox.IsChecked = false;
+        }
+
+        private void inventoryCheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            HasInventory = true;
+            inventoryCheckBox.IsChecked = true;
+        }
+
+        private void inventoryCheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            HasInventory= false;
+            inventoryCheckBox.IsChecked = false;
         }
     }
 }
