@@ -1,0 +1,5271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEquipmentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EquipmentItem>
+    <Id>08AjMaiZsKtM5WLRBEst</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Lafferre C1249 Printer</Name>
+    <LastCleaned>2024-05-05T21:53:35.949999</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0fkrVOw1lWj1kxm56PDx</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Stanley</Name>
+    <LastCleaned>2024-05-05T21:53:35.950087</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4ScNsFguv4UWmerOnP0Z</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Cornell Printer 4</Name>
+    <LastCleaned>2024-05-05T21:53:35.950093</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5SAAJHTwaZPeV8fsTRzv</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BINGHAM Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950098</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5cYpJS4PModdKX2zYBIY</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>colorPrinter</EquipmentType>
+    <Name>Clark Printer 2</Name>
+    <LastCleaned>2024-05-05T21:53:35.950103</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>82HXcCJrq6MFg3oyDkXM</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BROOKS Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950111</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8ExAX6nSqyHfzNDgNDio</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Cornell Printer 5</Name>
+    <LastCleaned>2024-05-05T21:53:35.950115</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>FMaEKzFXTcLlakGtlmRD</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Clark Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950132</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HBbIotN04iVnGSDWCp3K</Id>
+    <SiteId>BezlCe1ospf57zMdop2z</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BLUFORD Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950137</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HJO91FT9FF9YZToZbzzT</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>A&amp;S 41 Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950144</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>I0s4duM6TTdVgQjJ5sm9</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Strickland 222</Name>
+    <LastCleaned>2024-05-05T21:53:35.950148</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>N5nLQ5gzaCm7FNypjoOs</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>EBW 145</Name>
+    <LastCleaned>2024-05-05T21:53:35.950154</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>NE6pJhrKqbP26goL53Qo</Id>
+    <SiteId>NhuQrCUj5wz0XwMWoe7m</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>BCC 122 Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950158</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Q2GgSXfaYgoKy4s9yGte</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>WOLP Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.950162</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RkSgmvd08pdfmt41GVn6</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Middlebush Printer 8</Name>
+    <LastCleaned>2024-05-05T21:53:35.950166</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VOiNyJOdHxOpkhMrzlp5</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Gateway</Name>
+    <LastCleaned>2024-05-05T21:53:35.95017</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Yu8IJukpHYZXfQe9lPrS</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>colorPrinter</EquipmentType>
+    <Name>Ellis 1B</Name>
+    <LastCleaned>2024-05-05T21:53:35.950174</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aVY78htFdrbJbZ4mReu2</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Respect</Name>
+    <LastCleaned>2024-05-05T21:53:35.950178</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>coHZOvckafgeMpy5h75p</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Middlebush Printer 7</Name>
+    <LastCleaned>2024-05-05T21:53:35.950184</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dj5dGzh9WaYsEQUkk1AW</Id>
+    <SiteId>5vU1Myky30ndHMBVftHD</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Mark Twain</Name>
+    <LastCleaned>2024-05-05T21:53:35.950188</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fwLXsMumr69cIyiyHOPF</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Physics Printer</Name>
+    <LastCleaned>2024-05-05T21:53:35.950192</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>g9mLMaJFhNiGjF2c7RuD</Id>
+    <SiteId>udWRQBhoYNF93gl8hAnt</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Mark Twain Lobby</Name>
+    <LastCleaned>2024-05-05T21:53:35.950196</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>r5qLc3lfSt6wMbkOxAJK</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Strickland 124</Name>
+    <LastCleaned>2024-05-05T21:53:35.9502</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vQA9MPi60IkxHnscWGaP</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Johnston Hall</Name>
+    <LastCleaned>2024-05-05T21:53:35.950204</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wH2N6hC1deu6Ejt4EZwW</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>ROLLINS Printer 1</Name>
+    <LastCleaned>2024-05-05T21:53:35.95021</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xNRce57Zn12PM4HmYaZ7</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Cornell Printer 3</Name>
+    <LastCleaned>2024-05-05T21:53:35.950214</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>031tArGpz7iAC7HB6pyq</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.760455</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>06IKvhwMf1v8WCuZoSnd</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.76049</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0WmeMLOJMkA38Gke7Iml</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.760498</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0YvRQxUio0CxVUST5sBh</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.760503</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0cMZSJsrqcYAcjc3XLol</Id>
+    <SiteId>BezlCe1ospf57zMdop2z</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BLUFORD-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.760509</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0jJufjUSr00niHb3Hndj</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.760517</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0mjogHyQjCeY0QAJmxkO</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.760522</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0nOv0DFbEdk6RI7UWlzm</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-41</Name>
+    <LastCleaned>2024-05-05T22:03:50.760526</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>0wsElPxpxwimKuQAgbWB</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-34</Name>
+    <LastCleaned>2024-05-05T22:03:50.760531</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>11auGVCxQHM7hIbKh3cX</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.760538</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>13kClFaQuwdMjrteSl9t</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.760542</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>1MuyvwcR9ootVb2A5WoE</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.760549</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>1Q3WSCRjTcnfXMKZz4Nt</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.760554</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>1RgU21FlA8YU0o3k1ix3</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.760558</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>1anN2HVvubmSPHrCpVrX</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.760562</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>1dPzfYZozEpVTnHYHx5R</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BROOKS-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.760567</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>1ePRsjl6iq02rZTep7Xp</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.760571</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>2GvyQV4BNXP4oWMqeMQs</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.760575</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>2eL2O332ml9CJ8LOJH90</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.760582</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>30GlqjYzbqrlWwzTli7u</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>BINGHAM-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.760587</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>35OwqDuVJ1kKou6H6mdg</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.760591</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>3BxVqHS4sbxGhVo1tLOQ</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.760595</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>3IEYsmXnqu3nGdWIFHfd</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.760599</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>3SWGLfxXAWpstpusOwTC</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.760604</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>3ToGh7Xh5oilboGPRL1C</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-35</Name>
+    <LastCleaned>2024-05-05T22:03:50.76061</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>3pncf9s6L1Swgc3yzInc</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.760615</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>3rmAu42vv1jyZohce5SC</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.76062</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>3vmkVXQGtmlF9NsUilck</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.760624</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>40m3uIiBoMa6EXh62qv3</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-33</Name>
+    <LastCleaned>2024-05-05T22:03:50.760628</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>43K7D8D6ZOdmh8IirGc1</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BROOKS-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.760633</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4CCyObNAE9jbZcR8lwuE</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-54</Name>
+    <LastCleaned>2024-05-05T22:03:50.760639</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4G1MLKSFE7e2QKeShmGj</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.760643</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4IKqlweigeKhfnle3cy0</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.760648</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4QocoeaJnctCll0mTXAK</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.760652</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4WGv2laagcU1WSE344sX</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BINGHAM-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.760656</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4WOKckC9dmDVNcNDlI4i</Id>
+    <SiteId>BezlCe1ospf57zMdop2z</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BLUFORD-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.760661</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4eYxyppLQumEaz1PpiUm</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-45</Name>
+    <LastCleaned>2024-05-05T22:03:50.760665</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4eadZfLZXWsGOYmi5tCe</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.760671</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4lZanymcK88zBwWpJEE7</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.760676</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4p8rnbDsy7E1ME9SKBkh</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.76068</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4ssLDVNWqknNrkpoZAWc</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.760684</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4u4mPY5Qt48zHclZfMIs</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.760691</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4x3Ytwg5rSLbtqSLr9uP</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.760695</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>4yeBpYGyuliFkJlbENCj</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.760701</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>572vwXPpzWAq67OuL20V</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.760706</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>590ybYT7hAW8cdI6Jooe</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.76071</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5IWuBwcXfXvyXHJ63kaV</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.760714</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5KVlF9r5eFnytYObJ4oZ</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.760719</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5YciaKGTa2BAMxLN7yoi</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.760723</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5lhbCGOgnFSCuvoTjg46</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.760729</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5nSnycWBEnjoPCGJ1vD2</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.760733</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5oVJiFcpEADW4QJkID7G</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.760738</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>5qnxmYJRIjLaRJw8fKoh</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.760742</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>63NeJkWHlftfoX9j1dhH</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.760747</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>64mrP8hkYFpiMvcRCyqu</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.760751</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6F4KbL58B4AdHVPKSlcT</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.760755</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6UqwxANlXz8ts4wKCruk</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-85</Name>
+    <LastCleaned>2024-05-05T22:03:50.760762</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6VO7QCXSGMH0rSP0GhoY</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.760767</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6XbVxO9J114h2F9TrqZM</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.760772</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6mBAovshaDPb2wcc7vaB</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.760776</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6nEY5yvLMwPynQM37QWN</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-32</Name>
+    <LastCleaned>2024-05-05T22:03:50.76078</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6t6W7FXnf8DxxV9AXo5E</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-60</Name>
+    <LastCleaned>2024-05-05T22:03:50.760785</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>6u5hhm0Jj5Ves1XJzb6U</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-51</Name>
+    <LastCleaned>2024-05-05T22:03:50.760791</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>73S01kXWHmmfcvzAE4F6</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-48</Name>
+    <LastCleaned>2024-05-05T22:03:50.760795</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7YUWLoGYGnZ9E6x0z3tR</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.7608</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7f06KgNVb1UTBWCM11Kx</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.760804</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7fp4oeoV1918RWNz8MLp</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-81</Name>
+    <LastCleaned>2024-05-05T22:03:50.760808</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7h6LnrpMfXJ453VkzONQ</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.760813</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7kGrBJkmsD7fbxMYpobC</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-53</Name>
+    <LastCleaned>2024-05-05T22:03:50.760817</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7lE86t1gep2zQmtSm1XL</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-38</Name>
+    <LastCleaned>2024-05-05T22:03:50.760824</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7ove0ZHEc6VtuvKPn2E2</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.760828</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>7y6u7rJQ6Cp58GGC4QCI</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.760832</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>80RGXvFkukRdIzRQxLme</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.760838</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8G15zQT1EZPgI3T9TtKS</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.760845</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8G6P7iXGHg2Iw1esekOQ</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.760849</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8ICvHUSCZUdAkqNpQYmp</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-40</Name>
+    <LastCleaned>2024-05-05T22:03:50.760856</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8OdVvegc9IAlCHMjmXEY</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.76086</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8VwZ4TwDQ3OpfSeOE3pr</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.760864</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8lIjJU00DbBwUvJCXRff</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.760869</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8uMzIcI6sPubhKYC9Lnt</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.760873</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8v8XUnYAMsrhDeDquQR5</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.760877</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>94YGk6YVTFv1IQDfClML</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>BROOKS-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.760883</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>963xSAvk2EhffxC47isb</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.760888</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>98HLtZuCIiRrhcT1WQiv</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.760903</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9AQ1IGkY1zB7DQfassM5</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.760907</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9Gb37S0wnhmFleXyxs1h</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.760911</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9JUDZa7clJFJjr2Q0Nc8</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.760916</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9KqU0Zu7SLjAMOMJm1dV</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.76092</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9UzojkWVhGHYOytcH3LC</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.760927</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9XUxghcQyzKUjTnGsGHT</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>JOHNSTON-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.760932</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9u3GfblfG2ujgOpaEJCw</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.760936</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9vwJhSJHLM0YzGmigj64</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.76094</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>9xHk7NU7MHVJ7nVD6pXK</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.760945</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>A5DoAcOPJNOMcT3zOSOp</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.760949</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>A7fv9ktPyTJBCm2ldKtW</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.760956</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>A7xAyCe1HpJ2bwGjFxpg</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-42</Name>
+    <LastCleaned>2024-05-05T22:03:50.76096</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>A9w8i8Gv4s7eYv5IR9oX</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.760964</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AC4pxQk4MsBk0bmXEfRS</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.760969</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AJJiNPPLaMPruOVzxgZb</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>JOHNSTON-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.760973</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AOvsnkXL9zBsNhVeFVpc</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.761013</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>APOiRpyKKOkcte3dJAnf</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.76102</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AaqFu1Cdx5LC6koq4siF</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.761024</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AkcBpkoIkh7TfiuU6pBf</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.761028</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AsatdW17thjsoFvpHxRU</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.761033</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AwqkpwBOIpZBVMLHeeCe</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761037</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>AzWefSRS9xAcUIzSAa4B</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.761043</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>B20FdfL0KqAIufYZ6Alm</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.761048</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>B3SzANEKmzmIrpZm1RLW</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.761055</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>BTxZRSpnGGZY5urZHLPo</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.761059</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>BXyPO5PTh9wmadMyjfN9</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761063</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>BYyMp2JrLKcAaXI21kz2</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.761067</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>BfTFE5Z6gpCmhE11fz2z</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.761072</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>BfV2MHDISyvHMnNCmoBb</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761076</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>BmUHQY9jFvx4NGSRRZfQ</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.761082</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ByGKnvstnfXtN1nyqX52</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.761087</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>C2HKgmKKW4V9w6ncdTGC</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761091</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>C7C00nWmhVXJBn4POeH2</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.761095</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>C9oryHSxVutzrok9YOVd</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-37</Name>
+    <LastCleaned>2024-05-05T22:03:50.7611</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CDWnKitPoQNB9iWO5019</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761104</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CNzf9yYsj5DT3LKCxv7c</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.761108</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CPrBrWiZkI3ECdvG6VFg</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-33</Name>
+    <LastCleaned>2024-05-05T22:03:50.761115</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CeRS6VA0bm1tRaeOIdBl</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BROOKS-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.76112</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Cg8ue00NniTVbGBVYu3f</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.761124</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CkNO1YbAQ1r9CQLDUvo6</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BROOKS-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.761128</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Cm65j6m1TC86WFp8rDpk</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.761132</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CsfySea2KRygErurKhMP</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.761137</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CyLwC2VZyIGPIhD1zaxa</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761144</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>CzkzdvO1IqQhLc4WbUEF</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.761148</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>DAuRblBFOCYDcxqsh3E6</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.761153</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>DH7a2R6O0uUNi5jHpkQm</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.761157</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>DMaRyJR5rXfxUzHwwDuo</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761161</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>DeanIFKAKohqIbYri4um</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BINGHAM-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.761165</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Dm1YBXfcVOxQFsDWkaOh</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>RESPECT-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761172</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Dr8zFfdsz2eZAl0Db9BK</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-74</Name>
+    <LastCleaned>2024-05-05T22:03:50.761176</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>DvDrNxCmgrL7GJpGrIWo</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-59</Name>
+    <LastCleaned>2024-05-05T22:03:50.761181</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>E4hJ8AVjld0MSHhq1ewG</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761185</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>E5okIi6NkMJ0ZrikOXZe</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.761189</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>E8drlhgmWmM78twyQJtb</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.761195</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EGl5LQMW2ZoAewYYA27d</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.7612</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EKn844gdUcuOxgZWCqGl</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761206</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EKxvvSpyctqRyO6dCwSy</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.76121</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EUDCkqqd35pXG3Dc1BAq</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.761215</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EWCbRbXhvmpEOjLh2nvm</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.761219</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EWM6TjVvPyVOIZdOL1JW</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.761223</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EXQvewKAU9h0RmYyp9tE</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.761228</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EoCtzxh43i3fzFSIffLP</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.761234</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ErahuTNT1NcRvFovZRJL</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.761238</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ExaWVlbWT74lvUGJqd5R</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.761242</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>EzYBYf18criz4TfQmVop</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761247</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>F1KvdzRsN2Hpd5lSIzew</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-44</Name>
+    <LastCleaned>2024-05-05T22:03:50.761251</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>FLuLr15atyQkrd3zqgkl</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.761256</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>FRp9YizEMqRF0zCspDGQ</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761262</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>FuaNLSPHIPdFLZEmF249</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.761266</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>FxiF9rl1AEJBgll0TMOj</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-33</Name>
+    <LastCleaned>2024-05-05T22:03:50.761271</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>FywivE4f32RTsoCwlRnm</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.761275</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>G034HMVzB7t1GbUjYd04</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.761279</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GESNNnE8HYDLAjDZABI8</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.761284</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GFbxUYAx1xfM3IkSFPh0</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.761288</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GRQdaU9HiCPLGXKv0Bfz</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.761294</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GT3Ag7X7zH4s0B6l5w31</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.761299</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GVlKVFUqujzGRVvbRokB</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761303</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GZUca4Vtoa6UvVVMkBze</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761307</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GaBZHia0z3Rn4zlz7vCZ</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-32</Name>
+    <LastCleaned>2024-05-05T22:03:50.761312</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GaL1cOxVXGsHVPQ6vjMy</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.761316</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GkxVwJNYs3beQheLpLpd</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.761322</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GmSZSaXt9Jq8BzMLZPA4</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-32</Name>
+    <LastCleaned>2024-05-05T22:03:50.761326</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>GxYfWmUpNfQT7RRea3ul</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.761331</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>H1bv4DKV4t8jVX0TSJ1x</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.761335</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HFYizB5Z7ypBEnUiwVd9</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.761341</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HHPscpbecFHVdNtwsyxP</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.761346</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HjsPUgx7Rq47bVtfwLCH</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.76135</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>HlG9MI99gnv79Lcwdqsr</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761357</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>I25s4eePinpypmMI2HsV</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-04</Name>
+    <LastCleaned>2024-05-06T18:23:15.7200602-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>I6O9IOsEoUQDbl4YnO0c</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-56</Name>
+    <LastCleaned>2024-05-05T22:03:50.761366</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>IBVKh3qXdk8EPt1LEaA3</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CLARK-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.761371</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>IJiIcznVgPluJFp6kEcv</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761375</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>IW7rpo2w9EV3vewx6var</Id>
+    <SiteId>5vU1Myky30ndHMBVftHD</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>TWAIN-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761379</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>IYtokEkwnC2nWtekbitx</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.761386</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>IgwuERA8wtNJ6djeyFUD</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.76139</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ImJwKWPZ9r0Yxh5Jr8Uy</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-35</Name>
+    <LastCleaned>2024-05-05T22:03:50.761402</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Iq6o051SAaTn0GnOqoDm</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-38</Name>
+    <LastCleaned>2024-05-05T22:03:50.761408</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>IznZNWF0ZAXn2WyLviFB</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>BROOKS-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.761412</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>J3MyUwW02mhWRpoHMmYr</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.761417</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>JDVUQR298wYpL0yv91wM</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761423</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>JPWxJwJoHdgr8UUcucN4</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.761428</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Jb56cUcM98c4YDRKmaRt</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.761432</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>JxA521OC3BcGS6SVjlMz</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-51</Name>
+    <LastCleaned>2024-05-05T22:03:50.761436</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>K0AdYBac8pC7H68qWzCA</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.761441</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>K1IM3MGunv8EGpRubnrb</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.761445</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>K2taCy9d94WLmzvxuAzx</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.761449</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>K8pmHHZJHFazbDfGNP55</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.761456</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>K99R7m5k58INe1vTyyWH</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.76146</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>KBe5U17yeizudPdRb2hA</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-70</Name>
+    <LastCleaned>2024-05-05T22:03:50.761465</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>KMbBcUYH7eaeILKXCfiK</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-52</Name>
+    <LastCleaned>2024-05-05T22:03:50.761469</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>KRgpo2gu22IwNeFYqjNj</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-32</Name>
+    <LastCleaned>2024-05-05T22:03:50.761473</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>KYyisP1IJJBwxVBSg9xw</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-49</Name>
+    <LastCleaned>2024-05-05T22:03:50.761478</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>KaPZwr7eJfq6dkRLKHgX</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.761484</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Kgk0eqeSMID9gzRl4y1I</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>GATEWAY-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761489</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>KhBw9RIlzumU7rtyzJV4</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.761493</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Khnu6iHeXUinGHKmz38F</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-48</Name>
+    <LastCleaned>2024-05-05T22:03:50.76153</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Ks7uLsRmr4g4OSRh69QK</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761537</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>KslPzLrDVGM1kLOabj7R</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.761541</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Kvn3U8EXKBokcHgF7JIP</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.761548</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LIhrxrVCQyV6e7llV1Xl</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.761552</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LPiFK8wp4eTm0IfNXHp9</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.761557</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LWpbnYBiKSdxUaxEQ7rE</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>WOLP1-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761561</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LbgEdtTD19uaFGo43WfB</Id>
+    <SiteId>5vU1Myky30ndHMBVftHD</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>TWAIN-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.761565</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Lig8Zy2fx53dO733ukXV</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-67</Name>
+    <LastCleaned>2024-05-05T22:03:50.76157</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LmkSg3eXM8G8ICXErx14</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.761574</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LoZ7U97ySRLYLsWwmK3h</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.76158</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LpHYdOGJkhqd6GBwGTR9</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.761585</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LsbDkczMS1yeLiS6IdGS</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761589</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>LwSawmGC8AqrkfSRYyoD</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.761593</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>M7ph1XwsAQza7lKFTUrw</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.761598</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MCmHuvqY6oBCZEEbFwA3</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761602</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MIL11LsJVuD5gZFvpfMh</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.761608</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MNtH2PHdnEyFjSB7DUzK</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-32</Name>
+    <LastCleaned>2024-05-05T22:03:50.761613</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MTBPnVGdHzXQIyeYPf0s</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.761617</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MUCRWwqtIw3kwHrCEWpX</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761621</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MV61u9AJaWnaoBz7kbip</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.761626</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MYsvsGQc5FwCncmtOeOj</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.76163</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MZr3XNbnFVx7zA150ntl</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.761634</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Mu0StWehzbAn0Q3thDeG</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761641</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Mv4BhkjFDuvjPBzd3B0c</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761645</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>MyjQQAXFqDTp03bKREhJ</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.761649</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>N5vDPQQWRhyDNE7M1fTY</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CLARK-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.761654</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>NPd70oCxcE1a5HQecgNJ</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.761658</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>No1h511P25JW7f2RxdUU</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.761662</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>NqS4AfnH2iXzdnDQnodj</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.761669</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>NsCLIbP8JCcH7Lqf8qo3</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761673</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>NvznByUPFy6AicmSEARw</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761677</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>O2Ee1kLEh6gHZkkdRR8w</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.761682</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>O4xzuSxtn6rq9gCOQUTb</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761688</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OIioNwvrfFnkkUiMPgzk</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.761693</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OK8vDqxkakdgk01XV6wn</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.7617</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OPgWRYqM0V14hMUJFznx</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>RESPECT-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761704</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OYQsUZJY3HcqgPyXKvra</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BROOKS-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.761708</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OfYxPbGQCeHiMQr5futY</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.761712</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OkjyGKbZPFZdjCGHh62J</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761717</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OkzCw8EPZ26H5cALHFFu</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-58</Name>
+    <LastCleaned>2024-05-05T22:03:50.761721</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Ombawr6elogu90bm4r8q</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.761725</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>OuViR9Ky170t8z6gWboH</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.761731</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>P55mZQxys9DD3y7NpFyY</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.761736</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PB6I35aUVHxJuwOnn5Ud</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.76174</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PEJODqBp3CF1mgJavCR7</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.761744</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PL7LQLZdN9yDtN9OCddb</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761749</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PLQJY8heCoorGLRb5QuX</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.761753</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PUmJQZyyO9zDaaOIH9hk</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-47</Name>
+    <LastCleaned>2024-05-05T22:03:50.76176</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PVUah5bul4sCBLI0YQRx</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.761765</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PlwoZG5HmSoSb0loYtyu</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.761769</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PmV1YAF4Ax1Oh6PY5Tw5</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.761773</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Ppo0RLUDZjTXIccLkUv9</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761777</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PrhVKpSlcznb0IYyc1pq</Id>
+    <SiteId>BezlCe1ospf57zMdop2z</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BLUFORD-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761782</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Ps41lwGaJVKITChD3pfl</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CLARK-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761788</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>PyFKjkvcX0GEt5PnJd4Q</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.761792</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Q3caWOKtkRQO9ZlhTb8W</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.761797</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Q5AWboIsm13MXcKiZjBe</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.761801</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>QScHBMxGR56cgfpImusF</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.761806</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>QZDquDfxjuxxwWb0KJ6U</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.76181</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>QcPO0sMOCRCfz0xMmb0A</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761814</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>QgUq9zF0M44FeyffUm8H</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.761821</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Qiv3KmP52EK7JnKFIx4R</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>WOLP1-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.761825</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Qkdv26Tc2GXbZ4UQd3jS</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.761829</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>QqynZbPZNfAchNnQwHq5</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.761833</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>QxdytfwnKHLHuKikgGMR</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.76184</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>R4Fa4YZR5souPM6GaODJ</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>JOHNSTON-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.761845</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>R9MJCYrm271kLITDlBK0</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.761851</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RE4ZTQD2rxGuDmOXL3H4</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.761855</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RIWytiwnBluZgvSScXJG</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.76186</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RU7BcwbaV4NwJblcsJvs</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.761864</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RUxaGLc5JbDQJKQwrhV3</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.761868</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RfZYH4a7M04gOVTa6A4z</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-63</Name>
+    <LastCleaned>2024-05-05T22:03:50.761873</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RjBY7YAXaSbKYoM3EKIw</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.761877</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>RpZz8aAAWBrLeVb3nHAI</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.761884</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>S0ncdpSGCb7lraZdHlqg</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.761888</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>S7JovKdRqRRbzFPSqPQa</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.761892</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>S8BoCu4vG4GTF7fM4BYy</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.761896</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SAetwJkMR2il6NowvIjt</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-36</Name>
+    <LastCleaned>2024-05-05T22:03:50.76191</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SAv54yJi3zz0rRuZWGR4</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.761915</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SMhwJe8mSrjcRClsgIr3</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-69</Name>
+    <LastCleaned>2024-05-05T22:03:50.761921</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SQixXmogqjrTgIdjoGSe</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-47</Name>
+    <LastCleaned>2024-05-05T22:03:50.761926</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SY72nYg3HPUrcWPobMbx</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.76193</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SZ3pu5yZFtPt02m2IUGM</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>GATEWAY-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.761934</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SbfmUn1bdjt8oit5xZeC</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.761939</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Srp9gYsZngYlwDNot0bX</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.761943</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>SvnKDnMwywnCBRZqurYk</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.761949</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>T7GCTiEWD9adRFplmhaO</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.761954</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>T7Q9DqMond3tw8I4RvJe</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.761958</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>T8TBPl2GnPX4vGkCTklh</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>JOHNSTON-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.761962</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TEFCSUFOyH9S1UY6O7ov</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-42</Name>
+    <LastCleaned>2024-05-05T22:03:50.761967</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TGt5dkYNdhGPpyuZaKue</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.761971</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TIO5RHKeYKe37zE9BGSa</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.761975</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TSRGidWlQuLacQpmH8fl</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.761982</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TWEuY0GQEasPPiksZGo1</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.761986</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TY6bq6XpWQTxcmMRCWpS</Id>
+    <SiteId>udWRQBhoYNF93gl8hAnt</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>TWAINL-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.76199</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TkHXTJxCgmq7mb8FR9Yk</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.761995</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Tm8PUHN7fzRxPFWSkZSR</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.762001</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TnnQjphBcvGI7m3pIDaq</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.762005</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TnsEcQOlBLQ9XNYt80rv</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.762012</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TpdvchePxcVX6H3fDqiW</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.762016</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Tq10fLRU70IQTSedRS7c</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-36</Name>
+    <LastCleaned>2024-05-05T22:03:50.762054</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TtReY58RsqYhg0DQkfZF</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.762058</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>TwDzwMsdlnmI8KoFtVxK</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.762063</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>U09mrLy5KZmQZ6ECnFZ1</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.762067</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>U77C7XkI5DsOcwrAPrZe</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.762073</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UF2u0mTIKfBIrTufbMaz</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.762078</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UGUPf1mjDXeBeURkhMa7</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.762082</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>URPd4nHHbOIjXQI3LG2c</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.762086</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UUGxyIXmLAjEfiPLHbGr</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.762091</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UYwjDCcS41q1DA6360PU</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.762095</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UdDoEec5jnM53kBXzsab</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-54</Name>
+    <LastCleaned>2024-05-05T22:03:50.7621</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Ugm7ceH2VWBy2rvTdx5y</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.762106</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Uib4HFVkxBFv8NyeCchq</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-78</Name>
+    <LastCleaned>2024-05-05T22:03:50.76211</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Up8OgYNsCAX0shqWA6Qj</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.762115</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UpmwpaWf3uKiiuUMoMrS</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.762119</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UsFmv7iexCOg5fLSlT86</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CLARK-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.762124</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>UucKSW88Lfd07WmAJPKN</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.762128</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>V1M49pOy6b18BZWM0JkG</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.762135</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VBG3q9EJmLB7buSaIuWW</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-44</Name>
+    <LastCleaned>2024-05-05T22:03:50.762139</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VDV9Wnd5jwbgbtNBVP5Y</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ROLLINS-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762143</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VGtMRd72lAbed0N7Dhoa</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.762148</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VI8MfjSYjiWWE9uy3iqA</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762152</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VKOpmd5xcg6HDcyhop4t</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.762156</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>VWL1QEvAZVFuV1FAEN0z</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.762161</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>WKrWCF4AyPaLEyY4em3l</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.762167</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>WPVXXPYM5jMhDITNUJ4d</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.762172</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>WeIjYja1dVaS5zdIKkOV</Id>
+    <SiteId>5vU1Myky30ndHMBVftHD</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>TWAIN-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762176</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Whi0PoF0mlyVA8BtpBcy</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.76218</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>WwBD12R2J230AwEV87Mj</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.762186</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>WxI1b7kmnb25wydryBEV</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.762191</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>X0MIWSTXTVaBdutqGh1i</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.762197</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>X5ujELDrVHh1Fpg52pyh</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.762202</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>X90ofsGYFr2HcqU5V6s4</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.762206</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>X9ZfiDBMRr6QVeCJV7Zw</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.76221</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XBjoGBIBh0qkdvEpdDhv</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-41</Name>
+    <LastCleaned>2024-05-05T22:03:50.762215</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XFb7ebSxqpTB8UINFPmX</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762219</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XJzS7gLIC9v619dHeocT</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-45</Name>
+    <LastCleaned>2024-05-05T22:03:50.762225</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XSVDIx2KClxH19KnadX1</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.76223</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XUfnN0cLKsi3pFIGuce2</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.762234</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XWvEbBdho2pO0NMvn9S9</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>JOHNSTON-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762238</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XYr3zaC2fR5gAie6PgvJ</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.762243</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XaTO0NYUg8MP513usA4u</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-50</Name>
+    <LastCleaned>2024-05-05T22:03:50.762247</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XbyL3Y93FXD35sDq70Yl</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.762251</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XnQOkDnekhQHwh0ZMQSa</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.762258</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Xt7sTRpEmHQyjLJQBGGN</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.762262</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XuIdcN3ZLs820UJQG8ry</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-46</Name>
+    <LastCleaned>2024-05-05T22:03:50.762266</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>XvVTA3DUn5sa5rj5vclz</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.762271</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Y5MH5mUDAz46TPh8OGx4</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.762275</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Y7wAqbuOFbAdVWHnmCpB</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.762279</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Y8LsYzAIPC4JuTPyATQs</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-80</Name>
+    <LastCleaned>2024-05-05T22:03:50.762299</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YARNLK40lWQobEKD36He</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762303</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YBgEl2ArbQRzzI5nyWtP</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.762308</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YDEGa54uEvD8uOvWNVgv</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.762312</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YDKe8cNSI0lmdWnP2hUt</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.762316</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YE7y24PT9a1YxxwyahyU</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.762321</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YKbpcvotFDGa1f8uXOMq</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762327</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YbD9c1oCUB8ArgA0JfN1</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.762332</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Yfd1VcVZmHN96aszwDFe</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.762336</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Yfh8Oqydkixx6w4NhwgF</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.762341</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Ynztnz3IQtPoWGR2AsXx</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.762345</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>YozBcFOkO3STLriMgl8T</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.762351</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Ys3CyX1xqZJRJAaPQpsP</Id>
+    <SiteId>lzdMf2noPi9mnfB60Kza</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ROLLINS-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.762356</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Z0oxFkw4wPW35ffgPaUQ</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.762363</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Z26z3wjI11jidHKe4Swg</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.762367</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ZJaTjpSq8Ddaxopf0HUU</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-46</Name>
+    <LastCleaned>2024-05-05T22:03:50.762371</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ZPhZBzjNgPKp1FUltX32</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.762376</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ZSjpyNLP85WrbAYRbFXG</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-34</Name>
+    <LastCleaned>2024-05-05T22:03:50.76238</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>Zn8XdR6NU4cHeEZRtCH7</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>GATEWAY-PC-01</Name>
+    <LastCleaned>2024-05-06T16:15:16.6406091-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ZpfCyQIu8up1WbW2F5ZZ</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>GATEWAY-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762391</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aDe2NccIaai4PzgRX0SQ</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.762395</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aDzLSkfmCHXA8SIrnjXp</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.7624</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aG8bN5vYhnPZ7ofmrg0x</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-03</Name>
+    <LastCleaned>2024-05-06T18:25:14.9677813-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aHgUEUICC3dBaiospk7T</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.762418</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aQOfMSDt1rMygaOi7IW2</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>WOLP1-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.762422</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>acCKhdYJCbuULcws2JFN</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-79</Name>
+    <LastCleaned>2024-05-05T22:03:50.762426</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>aefxhtSuB1FFlvpfns3j</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.762433</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>agiu6k8bdzjIYHA3w4ii</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.762437</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>apFdUzmePPzPqxLX1lrl</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.762442</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>b0WEDWm9ejh2g8GNgih6</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.762446</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>b5mWa7lcsqnceJiwowZs</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.76245</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bE1fjTgBnliQIqQXFiCD</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762455</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bIdgHYoIIe6PRskeeRxB</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.762462</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bKxtQVTcjeorgHR0baeb</Id>
+    <SiteId>udWRQBhoYNF93gl8hAnt</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>TWAINL-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762466</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bOVSLX8zBODYVvTrojkn</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.76247</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bRJtTRj2QBluIBD53OLC</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-52</Name>
+    <LastCleaned>2024-05-05T22:03:50.762475</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bTpmGhjYUhJtiRgGPSF9</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-49</Name>
+    <LastCleaned>2024-05-05T22:03:50.762479</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bdFvacmE5F0B8ZcbFdbw</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.762483</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bsZ5LNaN1kq00GfnncWi</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.76249</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>c1faVjWSzgqyxFinVkyL</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-75</Name>
+    <LastCleaned>2024-05-05T22:03:50.762494</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>cA8rWbLHDqNWKrnf4nLk</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>RESPECT-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762498</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>cGx3eQ4ET3UrrvPg1kMT</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.762503</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>cOXYtXHQ7aq26IR1C0m6</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.762507</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>cSuBOx4rfqqPam6MQMgI</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-39</Name>
+    <LastCleaned>2024-05-05T22:03:50.762513</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>d0LksTSW64xvmxEaJMSq</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.762518</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dDMqEjVTApLhEv9YMXaq</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-01</Name>
+    <LastCleaned>2024-05-06T18:23:51.2246818-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dMFW5Ar1uop1eb0xRRyZ</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.762529</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dNRZc7FT0gN0VPZFNn8u</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-37</Name>
+    <LastCleaned>2024-05-05T22:03:50.762533</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dOmQPo7ieGZ8CsVjoBdv</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.762538</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dUuJLjmd2vBdThFN9V6p</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.762542</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dWHoMEIp1tim6bHI4lJU</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BINGHAM-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.762546</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dluB4zVuNP3soLwupQim</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.762586</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dvGnxopgVFqzqKdEL7U1</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762591</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>dvOMUShskWwvYcWYQT3X</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-73</Name>
+    <LastCleaned>2024-05-05T22:03:50.762595</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>e9yIbdmqHnArRDX0Fnlj</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.762599</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>eJrHXhZSmtPgwC19i1mu</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.762603</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>eOnA5BPSkqCz9m5qBsxh</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-55</Name>
+    <LastCleaned>2024-05-05T22:03:50.762608</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ePy8z4UjJ5vB11KPeSfh</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.762615</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>eVBlLHQOultV73jmcxYp</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.762619</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>eZ39EinThMz4YQd09F0d</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>GATEWAY-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.762624</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ecDtWc1xWobfmIvySeEb</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-35</Name>
+    <LastCleaned>2024-05-05T22:03:50.762628</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ecK2GmrFbMNVe64sxe60</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.762632</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>edF1G3vWBjF6pLTdK7u0</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.762637</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>euml3mNnd6PQvuYrrmRO</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.762641</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>f2oKP6Lq1KNwj8sCIhao</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.762648</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>f4DGZz2eNtCKnr9ELCVZ</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>GATEWAY-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.762653</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>f8ycYcKXnvqv1SVxxEI5</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.762657</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fB252CKSjISeoZIaAWMX</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.762661</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fCX8Kv2moNNijXSUU59h</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.762666</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fDwvN5oHL5UJ6Q9C4e6n</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.76267</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fLSFQCjykne6TO4YPcMR</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>WOLP1-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.762677</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fVbBXUjuRU8Rv2rlOxQQ</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.762681</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fer5ZWGNzwTOTCCp4TF8</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-01</Name>
+    <LastCleaned>2024-05-06T16:11:44.9658483-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fmKupTWguCUd3MKRxAAq</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.76269</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fnVuk0LtnoPKW2zpx3H3</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.762696</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>foeoLLojvwqVwETQ532n</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BINGHAM-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.762701</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>frI9MPqujAUKJurXPDtw</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.762705</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>frIKemBqUL0AfzZsX74u</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-34</Name>
+    <LastCleaned>2024-05-05T22:03:50.762711</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fsSIYFsRwGvR8n0bukNk</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.762716</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fy7r67yKRkEqlKMg1C0b</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-02</Name>
+    <LastCleaned>2024-05-06T18:23:15.7200602-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>fzIWTLskngNnXQHpp5j6</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CLARK-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762725</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gAS7yJVO089CxHOOEWOk</Id>
+    <SiteId>lzdMf2noPi9mnfB60Kza</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.762729</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gF812GOdCQbikPMauULH</Id>
+    <SiteId>ZwymGeRa7ULPYPLwlm0V</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>BINGHAM-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.762734</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gKNBhxY2UKa6CSfEFiI0</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.76274</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gUtoY0LprFufpX9gUNWH</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.762744</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gcNCUH869k7riyYXL0fR</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.762749</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gnXXSC2MQllCa5ZV8GnH</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.762753</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gqoZkXKjgLLOB6mNTCOH</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.762757</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gryoB0LhlkziPUUMjTSf</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-83</Name>
+    <LastCleaned>2024-05-05T22:03:50.762762</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gvdMb3rkdvZP2wKYsNfh</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.762768</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>gvwj0xcrGCBtyWhSaPan</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.762772</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>h0TEyMdJg0EudwFrGt1M</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-72</Name>
+    <LastCleaned>2024-05-05T22:03:50.762777</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>h91n7QoLl71RJorjwiKc</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.762781</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hBLRSwujsL6RpW55PJsz</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.762785</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hCw8ZWEbmsNp590P9dmr</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.762789</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hI5vUlmPc6FOMYnwura0</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.762794</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hLUull5j8gmWZ7AJzC81</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.7628</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hMXyxddXyG8OJeIVGmRF</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.762805</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hS4UNJUVK0akfiJTs5S5</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.762809</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hSWdC3VNuCStZ0ha0bfb</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.762813</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hYflCU51TRL5YPGGMqgr</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-66</Name>
+    <LastCleaned>2024-05-05T22:03:50.762818</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hlFKZxdLgk4s2CU6gkV1</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-02</Name>
+    <LastCleaned>2024-05-06T16:12:20.7375522-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hlfvG9mvG8z6Tvpodc1g</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.762829</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>hrOUYaEDNQifBYeJL6SF</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.762833</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>i4j7uHm6t9u0TADvhxgU</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.762837</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>i4wp4kBlQs7o4bNVZ9Rx</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.762842</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>i9Qbtex5Mx7gNpdCTFT1</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BROOKS-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762848</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>iH37yLainVASQJFL0rJE</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.762852</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>iQOyyGQxBWwe1u7EMBpl</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.762859</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>iljmTzYeWmKgEczKdvGH</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.762863</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>j0G2Mi74IrdmCoAkGqra</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.762868</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>j3tZWJTzdAJzR9BlDoHS</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.762872</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>j8yKtteMA5bKuysiBhS3</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.762876</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jE60Erx7GPtnMyyIdPfM</Id>
+    <SiteId>cs5j4nQn8vK2RZP8ga3V</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>BROOKS-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.762881</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jFQZGRhOJU5DmaFxuGGq</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.762886</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jOgRxT8krdp7TWJSpOAx</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.762893</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jUsakYIPu7hNIvmGs33I</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>GATEWAY-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.762897</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jVjuxhbpLJxPmOYa5Qke</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.762901</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jWs0imctjVpLUjzFeZ3v</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>WOLP1-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.762906</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jdSx6uTimwMTk0Ki1Q6d</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-12</Name>
+    <LastCleaned>2024-05-06T18:23:18.7000565-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jdeByy1bU3qRaUAmiBPg</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.762924</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jgyVyzDp0nXLtkf21IWv</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.76293</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jhSAKf4AttubNErPs4UP</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.762935</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jiaOgE16A2cj5RlmsiEC</Id>
+    <SiteId>lzdMf2noPi9mnfB60Kza</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.762939</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>jjIEhAw4Lh10R2cjxcwP</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.762943</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>k6JiIWUMf29Pwb5jAONt</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.762947</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>kAIzvT9PPLwj2be7Wh6n</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.762952</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>kIqsTPMabaW9HZW25pqH</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.762956</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>kUuY1ujHgZ1oNauz3BwT</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.762963</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>kVADONwZO7dFBEiCUadY</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.762967</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>kdOL21C8ywxu7xOpo1fV</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.762971</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>keIOQTaXbvyqb8wdGTjb</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.762976</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>khFAxHA4Nxu3fuq2bray</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.76298</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>kjGa59Hm7OUSF48Fz8MN</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.762984</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>krXl2EBW2DqCw8BUGmk0</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.762997</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>l3h1ehHOCLII9f6YQUfX</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.763001</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>lGBYwCIaTBz4mqxNQ5Ez</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-71</Name>
+    <LastCleaned>2024-05-05T22:03:50.763005</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>lI5CLTftYqO2JrCE8v3v</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.76301</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>lIbtErzs5gD34qfMcV0n</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.763016</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>lkBEsyKMTRGTg6yqi2Q6</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.76302</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>lzdMf2noPi9mnfB60Kza</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.763027</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>m0q1xQbLsHbIqcBBxA8v</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.763031</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>mDw7KFSchQ3XaqVBkoI2</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.763035</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>mUeBkZUH1Pcj2Zdp053X</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>WOLP1-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.76304</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>mVXGY2xCZdtS5S7XAMfJ</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.763044</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>mapyggnWAb1VdrQy8An4</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.763048</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>masku0Yf56zV2qsNopUg</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-43</Name>
+    <LastCleaned>2024-05-05T22:03:50.763053</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>mkX9KI4JHFi2Jwx6Oekc</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.76306</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>mnCi5RIEl83q85jDhDQ9</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.763064</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>mpLw1t5yzPXwEnSoOdl1</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-57</Name>
+    <LastCleaned>2024-05-05T22:03:50.763068</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>n03w6toAHdenboHIdCp8</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.763072</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>n96YMFCQxxFM5ZEh1PlH</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.76311</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nB3jBWu5zEak8a8XHNYf</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-82</Name>
+    <LastCleaned>2024-05-05T22:03:50.763114</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nLiafbv4mSvqhI8c6uTR</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.763121</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nMYnPidCM6uzt80DIsnp</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.763126</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nP7dyvyeBsRsJANJtdBM</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.76313</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nRucIgc6Lr6co9VaXlwc</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-06</Name>
+    <LastCleaned>2024-05-06T15:33:20.7904653-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nXeDR9NONYpax16qD2Sh</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.763139</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>naZU0AK1HaQWnbNbywxJ</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.763143</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nfJn2oEk1l8qNU4LlOhx</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.763149</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nonvHIHEkmhZkQ0grvBY</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.763154</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>nsFNt1bt5jaaoYdYYRpo</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.763158</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>o241OFVIOQP0xMbztgNP</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.763163</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>o8g90GrHWQ1aZOTlmaxa</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.763167</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>oDm9w2tKgMQsmLw9TNgf</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.763171</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>oH4fEb6h4FbklqoZ42Fj</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.763175</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>oU210WSgBQEteByZm1tf</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.763182</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>oljxJCp6Zj4TH5njXfXf</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.763186</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>onjuVLYCJxvQPCCZuCF0</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>JOHNSTON-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.76319</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>op0B2MwruexVxyYgHlWF</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.763195</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>otylabORb6mJJJBDZ5zx</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>WOLP1-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.763201</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>oyHYLYREzQPLaPtC2TQG</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.763206</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>pHeBg12ExGFNeZ7SqbaT</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.763212</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>pMrCX06HKTymqHqV3jEx</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.763216</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>pRWAVjpjVwj6AUta9QZg</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.763221</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>pWdbnXxVH3B02PvMKRRD</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.763225</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>papoWTCEvYu8Z5wKywbc</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.763229</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>pdKFyLcXS8dSkOUkemgi</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.763234</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>pdnEVGpskMA1r9PzA4NR</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.763238</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>phN3AmrhoxBIbfzzoHlQ</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.763245</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>plltQD4eXXL3QQuIHbfz</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.763249</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>prntfpW0oqKSbqK52S8r</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.763254</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>q6iRz2BS1KRhqBepvMKR</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.763258</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>qFX7vo6538SkmVyZ34hV</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.763262</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>qOC7tfV72j1K4b7emQiD</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-64</Name>
+    <LastCleaned>2024-05-05T22:03:50.763266</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>qSS9LDWQ3OXLyvDswnsk</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.763273</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>r3jjAXdQn67oLclXhAQO</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>JOHNSTON-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.763277</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rH8JSc6B6vxHBk7TEA7c</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.763282</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rJAepEwWuifNBAfVVRAp</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.763286</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rLhi9DmrAgFSWUn29WLH</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.76329</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rNDnB6B4HhkyRjJOiPW8</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-77</Name>
+    <LastCleaned>2024-05-05T22:03:50.763294</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rTsA2Q6m43sCjKwcVspe</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-62</Name>
+    <LastCleaned>2024-05-05T22:03:50.763301</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rTyBEEn07oQd19hDDlOY</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.763305</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rVdpAThdxikUF9q2IK9Y</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763309</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rVn5Fxy6AThqlLus7tEV</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.763314</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rVuwlM8Ma7XHk1w8NB9D</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.763318</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rXOYiMpr8Ztrjcir8nTG</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CLARK-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763322</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ra1lq8K04T1NO55P77yQ</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-26</Name>
+    <LastCleaned>2024-05-05T22:03:50.763327</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rdsAIgCJmWfiCaT6vEQy</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763333</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rhAG5Mh25xnbl1w7wVKv</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>RESPECT-MAC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763337</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rnaCNcpsnllzHhylqMyu</Id>
+    <SiteId>5vU1Myky30ndHMBVftHD</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>TWAIN-MAC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.763342</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rq9AziIjmoMzaWnaujqy</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.763346</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>rsiGNS4JZZIGssFltLsL</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.763352</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ruB2Hax4wvvp64ov6nZN</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.763357</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>s6dnKJVUP7fh8JBla4fL</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-39</Name>
+    <LastCleaned>2024-05-05T22:03:50.763363</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>sBsvsk1ggm1DEiCOGzK8</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.763368</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>sENYzPrfv5RlxpZwdcws</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-76</Name>
+    <LastCleaned>2024-05-05T22:03:50.763372</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>sMNlrw8dAeVOYAOcnpX6</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-61</Name>
+    <LastCleaned>2024-05-05T22:03:50.763376</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>sMgSFKmJDXr0X2vugYo0</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-31</Name>
+    <LastCleaned>2024-05-05T22:03:50.76338</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>sSjFpuo6c8i9ny4dTipu</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.763385</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>scezIaSO9m8tUF7CohmI</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.763391</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>snDjsvODAOzcocBo94l4</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.763395</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>t01ywtVMldHjeIjUQBg5</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-65</Name>
+    <LastCleaned>2024-05-05T22:03:50.7634</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>tEl2zumIp8UIDu2A3rpM</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-36</Name>
+    <LastCleaned>2024-05-05T22:03:50.763404</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>tG6f25TLtytDfeGMidU8</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.763408</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>tGdxMQemrnFMqAQL9YEY</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.763413</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>tJ3FcE0ZJeXXO8jwp7D7</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>RESPECT-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.763426</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>tQEwar05bxlG10qlWHUm</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-18</Name>
+    <LastCleaned>2024-05-05T22:03:50.763433</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>tgB2mX8pYdFYyFI73hkG</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.763437</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>toL5xw3SeivpJwokxuw5</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.763441</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>tsdULjL34dvoRJxLhGxU</Id>
+    <SiteId>qtB5aB5iStzgjdVla1kg</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>GATEWAY-PC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.763446</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ttDJWBtJ5wa4EEXtxvgA</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.76345</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>u4olYJg0KBYoLaM6iRKu</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.763454</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>uCwcIUAltzGPSPWVLJWy</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-27</Name>
+    <LastCleaned>2024-05-05T22:03:50.763461</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>uIZ8e24SCQ9o5dNGVHPD</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.763465</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>uaIrKWQKZ5PdzW4RtEo7</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.763469</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>ukzGlzbTm2dzbfQS7WMX</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.763474</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>umKoVu835ScwL6eDiPDE</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.763478</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vCNwk21nZpLY5aSHTYU8</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.763482</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vEkGZ9wCYhOl29MdAC2U</Id>
+    <SiteId>h1YOmR5rzVY2OVGflUqj</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>WOLP1-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763487</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vKzS6oYKoaTlw4m2fMZW</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-43</Name>
+    <LastCleaned>2024-05-05T22:03:50.763493</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vRWdWKjkpbNhqOeeNfQI</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-25</Name>
+    <LastCleaned>2024-05-05T22:03:50.763497</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vSdZJn37jcYlZGMytQwx</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763502</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vhQWAP038rv5BgReZjMq</Id>
+    <SiteId>DphKRnjcswynLKO6B4Rs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0004-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.763506</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>viw8oktaayt49S0FZtzn</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-32</Name>
+    <LastCleaned>2024-05-05T22:03:50.763513</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vlk9RgJ9zJetXSvZGTdo</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-55</Name>
+    <LastCleaned>2024-05-05T22:03:50.763517</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vp0LSAyJKbZjHcx7ffhL</Id>
+    <SiteId>WDhEqTlOgFouxKRHoWGb</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>PHYS136-PC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.763523</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vsjs9p3BtTCSAbmkxjdW</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-30</Name>
+    <LastCleaned>2024-05-05T22:03:50.763528</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vswjZwtj6hcYgkVkkeeO</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-06</Name>
+    <LastCleaned>2024-05-05T22:03:50.763532</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>vxaob0e8DCAVZj6RV4Qd</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763536</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>w0HFG9mtBhMIgw8Pq66E</Id>
+    <SiteId>udWRQBhoYNF93gl8hAnt</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>TWAINL-PC-01</Name>
+    <LastCleaned>2024-05-06T17:44:41.6911848-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>w125Pr20KKsnSPtovAlU</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0005-PC-21</Name>
+    <LastCleaned>2024-05-05T22:03:50.763545</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>w82ljt3bTsy4sYJJiUlE</Id>
+    <SiteId>ZMZ5y7MFHeW3jd64R5zs</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>JOHNSTON-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.763551</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wJaDMlQojT4Tl491oe1G</Id>
+    <SiteId>vm2xPqLKXCn5R6zrvjQJ</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH7-PC-09</Name>
+    <LastCleaned>2024-05-06T18:23:18.7000565-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wKjQZVj9uS6iScuOQ2Pa</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-23</Name>
+    <LastCleaned>2024-05-05T22:03:50.76356</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wMm8S4dTIU8LV1sk1JJx</Id>
+    <SiteId>5vU1Myky30ndHMBVftHD</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>TWAIN-PC-01</Name>
+    <LastCleaned>2024-05-06T17:43:41.624861-05:00</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wTDKiOeByLWIv8kGWQVE</Id>
+    <SiteId>ncgvyP2RI3wNvTfSwjM2</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>AS41-MAC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.763569</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wTJftGE6f9FTooXGNcgr</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-02</Name>
+    <LastCleaned>2024-05-05T22:03:50.763573</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>wWthpMyDNyYCrXifLTv8</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-15</Name>
+    <LastCleaned>2024-05-05T22:03:50.763578</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>woTrFZhmBbKbcEdpWuaA</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-68</Name>
+    <LastCleaned>2024-05-05T22:03:50.763585</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>x3USlmDKkPKNU2Gijdp4</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-84</Name>
+    <LastCleaned>2024-05-05T22:03:50.763589</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xCavwXBaXcaHO7VJGQfs</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-17</Name>
+    <LastCleaned>2024-05-05T22:03:50.763627</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xJicsjtu0upevErE7NNa</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-40</Name>
+    <LastCleaned>2024-05-05T22:03:50.763631</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xNiVZ9c2S17h6p6u9LEc</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763635</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xRCzBRGvYwQCpy4HZUa3</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-12</Name>
+    <LastCleaned>2024-05-05T22:03:50.76364</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xY1nVqq0qUB2I8IiWSxU</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.763646</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xhMvSlDz3ww0KO73rgIZ</Id>
+    <SiteId>YvrXcbU7CLyFzNZsjmXV</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STNLY147-PC-24</Name>
+    <LastCleaned>2024-05-05T22:03:50.763651</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xiwTqqBaKpUf5yCjkWdA</Id>
+    <SiteId>x9hyYGCMxfRqzegc2PGU</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>RESPECT-PC-04</Name>
+    <LastCleaned>2024-05-05T22:03:50.763655</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xljpsRrFybgoFWNH8dDH</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-08</Name>
+    <LastCleaned>2024-05-05T22:03:50.763659</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xt6wjrAWCcVBYa4iUlnJ</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.763664</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xxqfXFaXQMkSPwRWnQ9L</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-01</Name>
+    <LastCleaned>2024-05-05T22:03:50.763668</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>xxxvWvuRwZLh8vHYQsqO</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-13</Name>
+    <LastCleaned>2024-05-05T22:03:50.763674</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>y19FLw8C1QYmS9vVbuSz</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-28</Name>
+    <LastCleaned>2024-05-05T22:03:50.763679</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>y1XjmRZJGOgIJJhrzyl9</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-16</Name>
+    <LastCleaned>2024-05-05T22:03:50.763683</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>y92KStAd7nKzKilX8CfI</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-09</Name>
+    <LastCleaned>2024-05-05T22:03:50.763687</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>yAOA74mCUiCa1HyIec0i</Id>
+    <SiteId>GGSFKZkYpcYevsNJ4Mla</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>CORN0003-PC-07</Name>
+    <LastCleaned>2024-05-05T22:03:50.763692</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>yIgBj4a5nz4ZNeapzRLw</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-53</Name>
+    <LastCleaned>2024-05-05T22:03:50.763698</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>yIweTIQ9cDfqF5Zh51Tl</Id>
+    <SiteId>HFdgVxqkOkcabwoLLTXq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>EBW145-PC-03</Name>
+    <LastCleaned>2024-05-05T22:03:50.763702</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>yLffrYTbKtTtj3iNdFpW</Id>
+    <SiteId>44xD1bGZIpRgcfLlzUSY</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124A-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.763709</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>yc6NFuGFeAyiuqQ9wFIr</Id>
+    <SiteId>UDNeE0RqYFjN3uiZrgvO</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK124B-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.763713</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>z16QluzLSAhaGqQmEPOs</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.763718</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zD2ON49kS7Az4KOrhjWW</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-50</Name>
+    <LastCleaned>2024-05-05T22:03:50.763722</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zL4NdhT0uU53D7qk5nJX</Id>
+    <SiteId>bgWLtN2JM1RkVVZXyVao</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ROLLINS-PC-05</Name>
+    <LastCleaned>2024-05-05T22:03:50.763727</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zXms6qVYnZWCmzrjFc8h</Id>
+    <SiteId>hJxxNkgCHu9X22eoE0Dq</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222A-PC-20</Name>
+    <LastCleaned>2024-05-05T22:03:50.763731</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zYedojHI056D8czlDqcZ</Id>
+    <SiteId>z8LSnolEWUKatNc6Uc8c</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>MBUSH8-PC-10</Name>
+    <LastCleaned>2024-05-05T22:03:50.763737</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zjEHrvGdYmLyleNBeUyi</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-29</Name>
+    <LastCleaned>2024-05-05T22:03:50.763742</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zjfYaWed4jRvij84oIV6</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>ELLIS-PC-19</Name>
+    <LastCleaned>2024-05-05T22:03:50.763746</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>znsNXZRv1m4bAykBlZch</Id>
+    <SiteId>5tzGS8LCvG2Ksanh7dGy</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>STRICK222B-PC-22</Name>
+    <LastCleaned>2024-05-05T22:03:50.763751</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zpPcY11V4q7NIOlJxFTz</Id>
+    <SiteId>gGimm3flHOTzwqYho4EL</SiteId>
+    <EquipmentType>macComputer</EquipmentType>
+    <Name>ELLIS-MAC-14</Name>
+    <LastCleaned>2024-05-05T22:03:50.763755</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>zvAay2aRbizhlT7OCgqW</Id>
+    <SiteId>iAQjbpYwqy9xypcQzkTp</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>LFC1249-PC-11</Name>
+    <LastCleaned>2024-05-05T22:03:50.763759</LastCleaned>
+    <ConnectedComputerId />
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>a194a32f-dbe9-4ac7-9f30-f3468136a759</Id>
+    <SiteId>6tYFeMv41IXzfXkwbbh6</SiteId>
+    <EquipmentType>windowsComputer</EquipmentType>
+    <Name>Clark 7</Name>
+    <LastCleaned>2024-05-06T21:02:05.6138179-05:00</LastCleaned>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>08a9ac58-2c1a-4944-ad9a-b34eca6d0467</Id>
+    <SiteId>BezlCe1ospf57zMdop2z</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>tetsing</Name>
+    <LastCleaned>0001-01-01T00:00:00</LastCleaned>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>bff03e1f-575d-478b-b05a-fb5b4b8082a7</Id>
+    <SiteId>BezlCe1ospf57zMdop2z</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>tetsing</Name>
+    <LastCleaned>0001-01-01T00:00:00</LastCleaned>
+  </EquipmentItem>
+  <EquipmentItem>
+    <Id>8bca29fd-76b9-4378-b787-8bf5c699d779</Id>
+    <SiteId>QqxiNW1tBaDjEi9K3Zib</SiteId>
+    <EquipmentType>blackWhitePrinter</EquipmentType>
+    <Name>Test Printer</Name>
+    <LastCleaned>0001-01-01T00:00:00</LastCleaned>
+  </EquipmentItem>
+</ArrayOfEquipmentItem>

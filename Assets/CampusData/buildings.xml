@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBuilding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Building>
+    <Id>VYUlFVzdSeVTBkNuPQWT</Id>
+    <Name>Arts &amp; Science</Name>
+    <Address>
+      <Street>902 Conley Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.32733</Longitude>
+    <Latitude>38.94337</Latitude>
+    <Group>G3</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>OcMzHSE1L1urLvGiaPBV</Id>
+    <Name>Bingham Hall</Name>
+    <Address>
+      <Street>902 S College Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32511</Longitude>
+    <Latitude>38.9452477</Latitude>
+    <Group>R2</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>yXT87CrCZCoJVRvZn5DC</Id>
+    <Name>Black Culture Center</Name>
+    <Address>
+      <Street>813 Virginia Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32412</Longitude>
+    <Latitude>38.9411736</Latitude>
+    <Group>G3</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>akjyNZ33dPoMRn3BA6Mb</Id>
+    <Name>Bluford Hall</Name>
+    <Address>
+      <Street>502 Kentucky Blvd</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.33186</Longitude>
+    <Latitude>38.9390526</Latitude>
+    <Group>R1</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>ME60RJ1xxe405p2soNo3</Id>
+    <Name>Brooks</Name>
+    <Address>
+      <Street>1007 Tiger Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.33199</Longitude>
+    <Latitude>38.93856</Latitude>
+    <Group>R1</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>SvK0cIKPNTGCReVCw7Ln</Id>
+    <Name>Clark Hall</Name>
+    <Address>
+      <Street>700 S Providence Rd</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.33431</Longitude>
+    <Latitude>38.9438553</Latitude>
+    <Group>G1</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>zzcMmHRixHbEMvFv24l2</Id>
+    <Name>Cornell Hall</Name>
+    <Address>
+      <Street>700 Tiger Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32964</Longitude>
+    <Latitude>38.94285</Latitude>
+    <Group>G3</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>7CsAQM7lBVlIVgLzZU4g</Id>
+    <Name>Ellis Library</Name>
+    <Address>
+      <Street>520 S 9th St</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32743</Longitude>
+    <Latitude>38.9447823</Latitude>
+    <Group>G2</Group>
+    <Type>Library</Type>
+  </Building>
+  <Building>
+    <Id>mdNyExBsLeRUDJJAGOac</Id>
+    <Name>Gateway</Name>
+    <Address>
+      <Street>1000 Virginia Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.3225861</Longitude>
+    <Latitude>38.9385948</Latitude>
+    <Group>R2</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>8waBVgpwD5Itgnh2Yy2t</Id>
+    <Name>Johnston</Name>
+    <Address>
+      <Street>1100 Rollins St</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.32442</Longitude>
+    <Latitude>38.9419</Latitude>
+    <Group>R2</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>NJvv56YmKgq1pYnATtBK</Id>
+    <Name>Lafferre Hall</Name>
+    <Address>
+      <Street>uuid</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>uuid</ZipCode>
+    </Address>
+    <Longitude>0</Longitude>
+    <Latitude>0</Latitude>
+    <Group>G1</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>l6wbDKWVK59CUIY1kOIK</Id>
+    <Name>Mark Twain</Name>
+    <Address>
+      <Street>515 S 5th St</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.33251</Longitude>
+    <Latitude>38.9451027</Latitude>
+    <Group>G1</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>ZkVwBzGWtw9I3sTQ8vVS</Id>
+    <Name>Memorial Union</Name>
+    <Address>
+      <Street>518 Hitt St</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32511</Longitude>
+    <Latitude>38.9452477</Latitude>
+    <Group>G2</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>joyisjePdOpmdxFILUSr</Id>
+    <Name>Middlebush Hall</Name>
+    <Address>
+      <Street>900 University Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32693</Longitude>
+    <Latitude>38.9461823</Latitude>
+    <Group>G2</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>DF7ttcIRDEC6xHceXd2u</Id>
+    <Name>Naka Hall (Engineering Building West)</Name>
+    <Address>
+      <Street>411 S 6th St</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.33118</Longitude>
+    <Latitude>38.9465523</Latitude>
+    <Group>G1</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>vefZkRvjBxS1H1vSzR60</Id>
+    <Name>Physics</Name>
+    <Address>
+      <Street>701 S College Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.33431</Longitude>
+    <Latitude>38.9438553</Latitude>
+    <Group>G2</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>ctGrZJA7s8d0YJnv13vW</Id>
+    <Name>Respect</Name>
+    <Address>
+      <Street>902 Virginia Ave</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.32329</Longitude>
+    <Latitude>38.9401245</Latitude>
+    <Group>R2</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>NKfa2fZH83HX5LNnXyfh</Id>
+    <Name>Rollins Hall</Name>
+    <Address>
+      <Street>901 E. Rollins</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>0</Longitude>
+    <Latitude>0</Latitude>
+    <Group>R2</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+  <Building>
+    <Id>kJFhgFSEa6YiyPn4ajVT</Id>
+    <Name>Stanley</Name>
+    <Address>
+      <Street>530 Hitt St</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.3241</Longitude>
+    <Latitude>38.9445724</Latitude>
+    <Group>G2</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>4NqNXGqU9iItZaVg3V2h</Id>
+    <Name>Strickland Hall</Name>
+    <Address>
+      <Street>805 Rollins St</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32802</Longitude>
+    <Latitude>38.942524</Latitude>
+    <Group>G3</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>LjlX6tH8SiMv4ZrnTj0S</Id>
+    <Name>Student Center</Name>
+    <Address>
+      <Street>S4 Memorial Union</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65211</ZipCode>
+    </Address>
+    <Longitude>-92.32537</Longitude>
+    <Latitude>38.94506</Latitude>
+    <Group>G3</Group>
+    <Type>Other</Type>
+  </Building>
+  <Building>
+    <Id>sRoIv6n4yGwICzNWEbyx</Id>
+    <Name>Wolpers Hall</Name>
+    <Address>
+      <Street>800 Hitt St.</Street>
+      <City>Columbia</City>
+      <State>Missouri</State>
+      <StateCode>MO</StateCode>
+      <Country>United States</Country>
+      <ZipCode>65201</ZipCode>
+    </Address>
+    <Longitude>-92.32508</Longitude>
+    <Latitude>38.9415474</Latitude>
+    <Group>R2</Group>
+    <Type>ResidentialHall</Type>
+  </Building>
+</ArrayOfBuilding>
